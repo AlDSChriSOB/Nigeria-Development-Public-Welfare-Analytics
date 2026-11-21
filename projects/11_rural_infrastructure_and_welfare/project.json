@@ -1,0 +1,12 @@
+{
+  "id": 11,
+  "title": "Rural Infrastructure and Welfare",
+  "slug": "11_rural_infrastructure_and_welfare",
+  "question": "How do service access and welfare differ across rural communities?",
+  "source": "GHS-Panel community and household modules",
+  "source_url": "https://microdata.worldbank.org/catalog/6410",
+  "kpi": "Weighted access proportions; real consumption",
+  "caveat": "GHS-Panel supports national and zone estimates; do not assume state representativeness.",
+  "indicators": {},
+  "status": "AWAITING_PRIMARY_DATA"
+}

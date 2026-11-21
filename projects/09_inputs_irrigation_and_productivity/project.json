@@ -1,0 +1,12 @@
+{
+  "id": 9,
+  "title": "Inputs Irrigation and Productivity",
+  "slug": "09_inputs_irrigation_and_productivity",
+  "question": "How do crop yields vary with irrigation and input use?",
+  "source": "GHS-Panel agricultural plot modules",
+  "source_url": "https://microdata.worldbank.org/catalog/6410",
+  "kpi": "Yield by irrigation and input category",
+  "caveat": "Convert harvest and area units; retain crop-specific denominators and survey weights.",
+  "indicators": {},
+  "status": "AWAITING_PRIMARY_DATA"
+}

@@ -1,0 +1,3 @@
+period,geography,metric,value,unit,source_url,vintage,previous_value,previous_period,absolute_change,relative_change_pct
+2024-01-01,Nigeria,At least basic drinking water (% population),82.2488935172216,% population,https://api.worldbank.org/v2/country/NGA/indicator/SH.H2O.BASW.ZS?format=json&per_page=100,2026-11-11,81.0772897042816,2023-01-01,1.1716038129400062,1.4450456067454547
+2024-01-01,Nigeria,At least basic sanitation (% population),47.9019370619136,% population,https://api.worldbank.org/v2/country/NGA/indicator/SH.STA.BASS.ZS?format=json&per_page=100,2026-11-11,47.7155813553496,2023-01-01,0.1863557065640009,0.390555246882909

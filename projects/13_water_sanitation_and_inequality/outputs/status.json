@@ -1,0 +1,12 @@
+{
+  "status": "EXECUTED",
+  "scope": "NATIONAL_PREVIEW_ONLY",
+  "utc": "2026-11-21T17:58:25.836520+00:00",
+  "rows": 52,
+  "metrics": [
+    "At least basic drinking water (% population)",
+    "At least basic sanitation (% population)"
+  ],
+  "primary_case_complete": false,
+  "native_bi_validated": false
+}

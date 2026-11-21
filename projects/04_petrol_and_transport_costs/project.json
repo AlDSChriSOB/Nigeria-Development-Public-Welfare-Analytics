@@ -1,0 +1,12 @@
+{
+  "id": 4,
+  "title": "Petrol and Transport Costs",
+  "slug": "04_petrol_and_transport_costs",
+  "question": "How do fuel and passenger-fare changes co-move?",
+  "source": "NBS Petrol Price Watch and Transport Fare Watch",
+  "source_url": "https://www.nigerianstat.gov.ng/elibrary",
+  "kpi": "NGN per litre; fare by transport mode",
+  "caveat": "Align state-month-mode keys. Price co-movement does not identify subsidy effects.",
+  "indicators": {},
+  "status": "AWAITING_PRIMARY_DATA"
+}

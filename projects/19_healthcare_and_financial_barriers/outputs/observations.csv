@@ -1,0 +1,53 @@
+period,geography,metric,value,unit,source_url,vintage
+2000-01-01,Nigeria,Current health expenditure (% GDP),3.1973834,% GDP,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.CHEX.GD.ZS?format=json&per_page=100,2026-11-11
+2000-01-01,Nigeria,Out-of-pocket spending (% current health expenditure),60.16206741,% current health expenditure,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.OOPC.CH.ZS?format=json&per_page=100,2026-11-11
+2001-01-01,Nigeria,Current health expenditure (% GDP),3.18946862,% GDP,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.CHEX.GD.ZS?format=json&per_page=100,2026-11-11
+2001-01-01,Nigeria,Out-of-pocket spending (% current health expenditure),60.74782181,% current health expenditure,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.OOPC.CH.ZS?format=json&per_page=100,2026-11-11
+2002-01-01,Nigeria,Current health expenditure (% GDP),2.49063969,% GDP,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.CHEX.GD.ZS?format=json&per_page=100,2026-11-11
+2002-01-01,Nigeria,Out-of-pocket spending (% current health expenditure),65.04915619,% current health expenditure,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.OOPC.CH.ZS?format=json&per_page=100,2026-11-11
+2003-01-01,Nigeria,Current health expenditure (% GDP),5.05360985,% GDP,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.CHEX.GD.ZS?format=json&per_page=100,2026-11-11
+2003-01-01,Nigeria,Out-of-pocket spending (% current health expenditure),72.81436157,% current health expenditure,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.OOPC.CH.ZS?format=json&per_page=100,2026-11-11
+2004-01-01,Nigeria,Current health expenditure (% GDP),4.63368416,% GDP,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.CHEX.GD.ZS?format=json&per_page=100,2026-11-11
+2004-01-01,Nigeria,Out-of-pocket spending (% current health expenditure),64.54787445,% current health expenditure,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.OOPC.CH.ZS?format=json&per_page=100,2026-11-11
+2005-01-01,Nigeria,Current health expenditure (% GDP),4.46591949,% GDP,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.CHEX.GD.ZS?format=json&per_page=100,2026-11-11
+2005-01-01,Nigeria,Out-of-pocket spending (% current health expenditure),65.97051239,% current health expenditure,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.OOPC.CH.ZS?format=json&per_page=100,2026-11-11
+2006-01-01,Nigeria,Current health expenditure (% GDP),4.25775146,% GDP,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.CHEX.GD.ZS?format=json&per_page=100,2026-11-11
+2006-01-01,Nigeria,Out-of-pocket spending (% current health expenditure),70.45880127,% current health expenditure,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.OOPC.CH.ZS?format=json&per_page=100,2026-11-11
+2007-01-01,Nigeria,Current health expenditure (% GDP),3.90997243,% GDP,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.CHEX.GD.ZS?format=json&per_page=100,2026-11-11
+2007-01-01,Nigeria,Out-of-pocket spending (% current health expenditure),70.93754578,% current health expenditure,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.OOPC.CH.ZS?format=json&per_page=100,2026-11-11
+2008-01-01,Nigeria,Current health expenditure (% GDP),3.69581532,% GDP,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.CHEX.GD.ZS?format=json&per_page=100,2026-11-11
+2008-01-01,Nigeria,Out-of-pocket spending (% current health expenditure),72.75693512,% current health expenditure,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.OOPC.CH.ZS?format=json&per_page=100,2026-11-11
+2009-01-01,Nigeria,Current health expenditure (% GDP),3.5801971,% GDP,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.CHEX.GD.ZS?format=json&per_page=100,2026-11-11
+2009-01-01,Nigeria,Out-of-pocket spending (% current health expenditure),74.47493744,% current health expenditure,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.OOPC.CH.ZS?format=json&per_page=100,2026-11-11
+2010-01-01,Nigeria,Current health expenditure (% GDP),3.29653287,% GDP,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.CHEX.GD.ZS?format=json&per_page=100,2026-11-11
+2010-01-01,Nigeria,Out-of-pocket spending (% current health expenditure),76.87748718,% current health expenditure,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.OOPC.CH.ZS?format=json&per_page=100,2026-11-11
+2011-01-01,Nigeria,Current health expenditure (% GDP),3.32077932,% GDP,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.CHEX.GD.ZS?format=json&per_page=100,2026-11-11
+2011-01-01,Nigeria,Out-of-pocket spending (% current health expenditure),74.72514343,% current health expenditure,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.OOPC.CH.ZS?format=json&per_page=100,2026-11-11
+2012-01-01,Nigeria,Current health expenditure (% GDP),3.35984254,% GDP,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.CHEX.GD.ZS?format=json&per_page=100,2026-11-11
+2012-01-01,Nigeria,Out-of-pocket spending (% current health expenditure),72.84432983,% current health expenditure,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.OOPC.CH.ZS?format=json&per_page=100,2026-11-11
+2013-01-01,Nigeria,Current health expenditure (% GDP),3.4206934,% GDP,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.CHEX.GD.ZS?format=json&per_page=100,2026-11-11
+2013-01-01,Nigeria,Out-of-pocket spending (% current health expenditure),70.92673492,% current health expenditure,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.OOPC.CH.ZS?format=json&per_page=100,2026-11-11
+2014-01-01,Nigeria,Current health expenditure (% GDP),3.34840417,% GDP,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.CHEX.GD.ZS?format=json&per_page=100,2026-11-11
+2014-01-01,Nigeria,Out-of-pocket spending (% current health expenditure),71.85419464,% current health expenditure,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.OOPC.CH.ZS?format=json&per_page=100,2026-11-11
+2015-01-01,Nigeria,Current health expenditure (% GDP),3.58194995,% GDP,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.CHEX.GD.ZS?format=json&per_page=100,2026-11-11
+2015-01-01,Nigeria,Out-of-pocket spending (% current health expenditure),71.89007568,% current health expenditure,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.OOPC.CH.ZS?format=json&per_page=100,2026-11-11
+2016-01-01,Nigeria,Current health expenditure (% GDP),3.64773679,% GDP,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.CHEX.GD.ZS?format=json&per_page=100,2026-11-11
+2016-01-01,Nigeria,Out-of-pocket spending (% current health expenditure),75.18703461,% current health expenditure,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.OOPC.CH.ZS?format=json&per_page=100,2026-11-11
+2017-01-01,Nigeria,Current health expenditure (% GDP),3.74762511,% GDP,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.CHEX.GD.ZS?format=json&per_page=100,2026-11-11
+2017-01-01,Nigeria,Out-of-pocket spending (% current health expenditure),77.38787079,% current health expenditure,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.OOPC.CH.ZS?format=json&per_page=100,2026-11-11
+2018-01-01,Nigeria,Current health expenditure (% GDP),3.09069347,% GDP,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.CHEX.GD.ZS?format=json&per_page=100,2026-11-11
+2018-01-01,Nigeria,Out-of-pocket spending (% current health expenditure),75.94579315,% current health expenditure,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.OOPC.CH.ZS?format=json&per_page=100,2026-11-11
+2019-01-01,Nigeria,Current health expenditure (% GDP),2.98547053,% GDP,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.CHEX.GD.ZS?format=json&per_page=100,2026-11-11
+2019-01-01,Nigeria,Out-of-pocket spending (% current health expenditure),71.49702454,% current health expenditure,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.OOPC.CH.ZS?format=json&per_page=100,2026-11-11
+2020-01-01,Nigeria,Current health expenditure (% GDP),3.38063431,% GDP,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.CHEX.GD.ZS?format=json&per_page=100,2026-11-11
+2020-01-01,Nigeria,Out-of-pocket spending (% current health expenditure),74.67578125,% current health expenditure,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.OOPC.CH.ZS?format=json&per_page=100,2026-11-11
+2021-01-01,Nigeria,Current health expenditure (% GDP),4.07625723,% GDP,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.CHEX.GD.ZS?format=json&per_page=100,2026-11-11
+2021-01-01,Nigeria,Out-of-pocket spending (% current health expenditure),76.24337006,% current health expenditure,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.OOPC.CH.ZS?format=json&per_page=100,2026-11-11
+2022-01-01,Nigeria,Current health expenditure (% GDP),4.21020174,% GDP,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.CHEX.GD.ZS?format=json&per_page=100,2026-11-11
+2022-01-01,Nigeria,Out-of-pocket spending (% current health expenditure),75.73786163,% current health expenditure,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.OOPC.CH.ZS?format=json&per_page=100,2026-11-11
+2023-01-01,Nigeria,Current health expenditure (% GDP),4.19086456,% GDP,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.CHEX.GD.ZS?format=json&per_page=100,2026-11-11
+2023-01-01,Nigeria,Out-of-pocket spending (% current health expenditure),71.90481567,% current health expenditure,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.OOPC.CH.ZS?format=json&per_page=100,2026-11-11
+2024-01-01,Nigeria,Current health expenditure (% GDP),,% GDP,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.CHEX.GD.ZS?format=json&per_page=100,2026-11-11
+2024-01-01,Nigeria,Out-of-pocket spending (% current health expenditure),,% current health expenditure,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.OOPC.CH.ZS?format=json&per_page=100,2026-11-11
+2025-01-01,Nigeria,Current health expenditure (% GDP),,% GDP,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.CHEX.GD.ZS?format=json&per_page=100,2026-11-11
+2025-01-01,Nigeria,Out-of-pocket spending (% current health expenditure),,% current health expenditure,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.OOPC.CH.ZS?format=json&per_page=100,2026-11-11

@@ -1,0 +1,12 @@
+{
+  "id": 10,
+  "title": "Storage and Market Access",
+  "slug": "10_storage_and_market_access",
+  "question": "Which communities lack agricultural storage and market access?",
+  "source": "GHS-Panel community and agriculture modules",
+  "source_url": "https://microdata.worldbank.org/catalog/6410",
+  "kpi": "Reported storage access; travel time to market",
+  "caveat": "Confirm actual questionnaire variables before deriving an indicator. Do not infer cold storage from generic storage.",
+  "indicators": {},
+  "status": "AWAITING_PRIMARY_DATA"
+}

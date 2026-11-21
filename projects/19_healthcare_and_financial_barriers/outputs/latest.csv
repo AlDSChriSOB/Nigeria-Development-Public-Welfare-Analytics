@@ -1,0 +1,3 @@
+period,geography,metric,value,unit,source_url,vintage,previous_value,previous_period,absolute_change,relative_change_pct
+2023-01-01,Nigeria,Current health expenditure (% GDP),4.19086456,% GDP,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.CHEX.GD.ZS?format=json&per_page=100,2026-11-11,4.21020174,2022-01-01,-0.019337179999999954,-0.45929343043784776
+2023-01-01,Nigeria,Out-of-pocket spending (% current health expenditure),71.90481567,% current health expenditure,https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.OOPC.CH.ZS?format=json&per_page=100,2026-11-11,75.73786163,2022-01-01,-3.8330459599999926,-5.06093765721227

@@ -1,0 +1,5 @@
+{
+  "status": "AWAITING_PRIMARY_DATA",
+  "scope": "NOT_EXECUTED",
+  "reason": "Obtain and transform the primary source into data/input.csv and document data/provenance.json. No fabricated data was used."
+}

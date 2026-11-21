@@ -1,0 +1,12 @@
+{
+  "id": 15,
+  "title": "Public Mood and Confidence",
+  "slug": "15_public_mood_and_confidence",
+  "question": "How do Nigerians assess the economy and country direction?",
+  "source": "Afrobarometer comparable Nigerian rounds",
+  "source_url": "https://www.afrobarometer.org/countries/nigeria/",
+  "kpi": "Weighted positive response proportion by question and round",
+  "caveat": "Survey attitudes are not a clinical mood score. Harmonise questions and response codes across rounds.",
+  "indicators": {},
+  "status": "AWAITING_PRIMARY_DATA"
+}

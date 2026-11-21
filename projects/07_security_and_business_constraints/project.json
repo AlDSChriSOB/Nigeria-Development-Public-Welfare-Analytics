@@ -1,0 +1,12 @@
+{
+  "id": 7,
+  "title": "Security and Business Constraints",
+  "slug": "07_security_and_business_constraints",
+  "question": "Which constraints are reported by households and enterprises?",
+  "source": "Afrobarometer and GHS-Panel",
+  "source_url": "https://www.afrobarometer.org/survey-resource/nigeria-round-10-data-2024/",
+  "kpi": "Weighted share reporting each constraint",
+  "caveat": "Survey opinions and business measurements are distinct populations. Do not join respondent records across surveys.",
+  "indicators": {},
+  "status": "AWAITING_PRIMARY_DATA"
+}

@@ -1,0 +1,13 @@
+{
+  "status": "EXECUTED",
+  "scope": "NATIONAL_PREVIEW_ONLY",
+  "utc": "2026-11-21T17:58:25.712080+00:00",
+  "rows": 78,
+  "metrics": [
+    "Electricity access (% population)",
+    "Rural electricity access (% rural population)",
+    "Urban electricity access (% urban population)"
+  ],
+  "primary_case_complete": false,
+  "native_bi_validated": false
+}

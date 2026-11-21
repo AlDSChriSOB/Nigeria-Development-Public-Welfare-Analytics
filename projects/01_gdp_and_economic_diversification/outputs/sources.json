@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://api.worldbank.org/v2/country/NGA/indicator/NY.GDP.MKTP.KD.ZG?format=json&per_page=100",
+    "sha256": "983b838a99e0276a85213b4c7321e4f65a4d1a12eb3f3c6111b22b0b135ab993",
+    "lastupdated": "2026-11-11"
+  },
+  {
+    "url": "https://api.worldbank.org/v2/country/NGA/indicator/NV.AGR.TOTL.ZS?format=json&per_page=100",
+    "sha256": "c41ae10f795618592414471f42a3590b8a9d43f1d4c56d5e5a6b6d285ca7819d",
+    "lastupdated": "2026-11-11"
+  },
+  {
+    "url": "https://api.worldbank.org/v2/country/NGA/indicator/NV.IND.TOTL.ZS?format=json&per_page=100",
+    "sha256": "a84dc820df4eaabcf6f48fbfe06c0e19c737f1d9d2d0d9f69a44c537cff273ff",
+    "lastupdated": "2026-11-11"
+  },
+  {
+    "url": "https://api.worldbank.org/v2/country/NGA/indicator/NV.SRV.TOTL.ZS?format=json&per_page=100",
+    "sha256": "a95511e35c57c5e01924613dfde44af3b8aa4ada12bc4e9b481e9c5df88e75e7",
+    "lastupdated": "2026-11-11"
+  }
+]

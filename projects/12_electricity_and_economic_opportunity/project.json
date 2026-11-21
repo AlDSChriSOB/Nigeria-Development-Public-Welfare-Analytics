@@ -1,0 +1,16 @@
+{
+  "id": 12,
+  "title": "Electricity and Economic Opportunity",
+  "slug": "12_electricity_and_economic_opportunity",
+  "question": "How does electricity access relate to work and enterprise activity?",
+  "source": "Afrobarometer; GHS-Panel; WDI access preview",
+  "source_url": "https://data.worldbank.org/country/nigeria",
+  "kpi": "Access proportion; reliability; enterprise outcomes",
+  "caveat": "National WDI access does not measure reliability or identify enterprise effects.",
+  "indicators": {
+    "EG.ELC.ACCS.ZS": "Electricity access (% population)",
+    "EG.ELC.ACCS.RU.ZS": "Rural electricity access (% rural population)",
+    "EG.ELC.ACCS.UR.ZS": "Urban electricity access (% urban population)"
+  },
+  "status": "NATIONAL_PREVIEW_READY"
+}

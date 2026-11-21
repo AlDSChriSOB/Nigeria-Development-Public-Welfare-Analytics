@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://api.worldbank.org/v2/country/NGA/indicator/SH.STA.BRTC.ZS?format=json&per_page=100",
+    "sha256": "7032665b36241915607782c6c82bdb17d985a82d29e65d7de1982fcf385aa048",
+    "lastupdated": "2026-11-11"
+  },
+  {
+    "url": "https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.IDPT?format=json&per_page=100",
+    "sha256": "cd3936a7ddd8944078a6ade25c3dfbcba003ccbc78ecac04d1bfdff1433f2c16",
+    "lastupdated": "2026-11-11"
+  },
+  {
+    "url": "https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.MEAS?format=json&per_page=100",
+    "sha256": "a151f588df55885e6092b4655e6b65d46e292df886c57616f0ee05e8300e737d",
+    "lastupdated": "2026-11-11"
+  }
+]

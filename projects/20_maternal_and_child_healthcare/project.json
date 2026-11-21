@@ -1,0 +1,16 @@
+{
+  "id": 20,
+  "title": "Maternal and Child Healthcare",
+  "slug": "20_maternal_and_child_healthcare",
+  "question": "Where are maternal-care and child-vaccination gaps largest?",
+  "source": "NDHS 2024; WDI national preview",
+  "source_url": "https://microdata.worldbank.org/catalog/8029",
+  "kpi": "Skilled birth attendance; child immunisation",
+  "caveat": "WDI national trends do not fulfil state or demographic inequalities; denominator populations differ by indicator.",
+  "indicators": {
+    "SH.STA.BRTC.ZS": "Births attended by skilled health staff (% total)",
+    "SH.IMM.IDPT": "DPT immunisation (% children ages 12-23 months)",
+    "SH.IMM.MEAS": "Measles immunisation (% children ages 12-23 months)"
+  },
+  "status": "NATIONAL_PREVIEW_READY"
+}

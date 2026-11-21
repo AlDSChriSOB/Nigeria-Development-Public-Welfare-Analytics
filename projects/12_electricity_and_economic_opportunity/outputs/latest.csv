@@ -1,0 +1,4 @@
+period,geography,metric,value,unit,source_url,vintage,previous_value,previous_period,absolute_change,relative_change_pct
+2024-01-01,Nigeria,Rural electricity access (% rural population),23.5,% rural population,https://api.worldbank.org/v2/country/NGA/indicator/EG.ELC.ACCS.RU.ZS?format=json&per_page=100,2026-11-11,32.9,2023-01-01,-9.399999999999999,-28.57142857142857
+2024-01-01,Nigeria,Electricity access (% population),62.5,% population,https://api.worldbank.org/v2/country/NGA/indicator/EG.ELC.ACCS.ZS?format=json&per_page=100,2026-11-11,61.2,2023-01-01,1.2999999999999972,2.124183006535943
+2024-01-01,Nigeria,Urban electricity access (% urban population),85.5,% urban population,https://api.worldbank.org/v2/country/NGA/indicator/EG.ELC.ACCS.UR.ZS?format=json&per_page=100,2026-11-11,85.0,2023-01-01,0.5,0.5882352941176471

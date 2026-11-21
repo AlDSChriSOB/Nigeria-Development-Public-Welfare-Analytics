@@ -1,0 +1,15 @@
+{
+  "id": 19,
+  "title": "Healthcare and Financial Barriers",
+  "slug": "19_healthcare_and_financial_barriers",
+  "question": "Who experiences financial barriers to healthcare?",
+  "source": "GHS-Panel health; NDHS; WDI financing preview",
+  "source_url": "https://microdata.worldbank.org/catalog/6410",
+  "kpi": "Reported unmet need; out-of-pocket share",
+  "caveat": "WDI financing share is not the percentage of households with catastrophic expenditure.",
+  "indicators": {
+    "SH.XPD.OOPC.CH.ZS": "Out-of-pocket spending (% current health expenditure)",
+    "SH.XPD.CHEX.GD.ZS": "Current health expenditure (% GDP)"
+  },
+  "status": "NATIONAL_PREVIEW_READY"
+}

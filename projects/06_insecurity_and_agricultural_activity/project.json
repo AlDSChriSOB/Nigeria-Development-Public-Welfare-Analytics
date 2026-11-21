@@ -1,0 +1,12 @@
+{
+  "id": 6,
+  "title": "Insecurity and Agricultural Activity",
+  "slug": "06_insecurity_and_agricultural_activity",
+  "question": "Are cultivation and harvest outcomes associated with conflict exposure?",
+  "source": "ACLED and GHS-Panel",
+  "source_url": "https://microdata.worldbank.org/catalog/6410",
+  "kpi": "Harvest per hectare and conflict exposure",
+  "caveat": "Geospatial displacement, reporting bias and confounding prevent simple causal claims.",
+  "indicators": {},
+  "status": "AWAITING_PRIMARY_DATA"
+}

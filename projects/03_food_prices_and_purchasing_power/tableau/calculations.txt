@@ -1,0 +1,5 @@
+// One metric, geography, unit and vintage per partition.
+// Latest-period label: MAX([period])
+// Value: MIN([value]) with period on the view and metric/unit/vintage filters.
+// Do not sum value over periods or unrelated metrics.
+// Previous observation change is precomputed in SQL; use MIN([absolute_change]).

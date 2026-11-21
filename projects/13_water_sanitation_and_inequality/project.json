@@ -1,0 +1,15 @@
+{
+  "id": 13,
+  "title": "Water Sanitation and Inequality",
+  "slug": "13_water_sanitation_and_inequality",
+  "question": "Who lacks basic water and sanitation services?",
+  "source": "NDHS; WDI/JMP national preview",
+  "source_url": "https://microdata.worldbank.org/catalog/8029",
+  "kpi": "Basic water and sanitation access",
+  "caveat": "National estimates cannot produce state or wealth-group inequalities. Survey extensions remain pending.",
+  "indicators": {
+    "SH.H2O.BASW.ZS": "At least basic drinking water (% population)",
+    "SH.STA.BASS.ZS": "At least basic sanitation (% population)"
+  },
+  "status": "NATIONAL_PREVIEW_READY"
+}

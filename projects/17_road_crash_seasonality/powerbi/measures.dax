@@ -1,0 +1,4 @@
+// Import analysis.csv as Analysis. Select exactly ONE metric, geography, unit and vintage.
+Selected Value = IF(HASONEVALUE(Analysis[metric]) && HASONEVALUE(Analysis[geography]) && HASONEVALUE(Analysis[unit]) && HASONEVALUE(Analysis[vintage]) && HASONEVALUE(Analysis[period]), MAX(Analysis[value]), BLANK())
+Latest Value = VAR LastPeriod = MAX(Analysis[period]) RETURN CALCULATE([Selected Value], Analysis[period] = LastPeriod)
+Absolute Change = IF(HASONEVALUE(Analysis[metric]) && HASONEVALUE(Analysis[geography]) && HASONEVALUE(Analysis[unit]) && HASONEVALUE(Analysis[vintage]) && HASONEVALUE(Analysis[period]), MAX(Analysis[absolute_change]), BLANK())

@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://api.worldbank.org/v2/country/NGA/indicator/SH.H2O.BASW.ZS?format=json&per_page=100",
+    "sha256": "d131a9e611c4768cac89bdd2f8923810aba8c25bbefb039d905f2de9086033eb",
+    "lastupdated": "2026-11-11"
+  },
+  {
+    "url": "https://api.worldbank.org/v2/country/NGA/indicator/SH.STA.BASS.ZS?format=json&per_page=100",
+    "sha256": "9009ef6992b2cdc17730969cdc40a0e6a73ec44c90dc28de328e261ca104d1ac",
+    "lastupdated": "2026-11-11"
+  }
+]

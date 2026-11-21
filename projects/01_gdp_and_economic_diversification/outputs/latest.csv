@@ -1,0 +1,5 @@
+period,geography,metric,value,unit,source_url,vintage,previous_value,previous_period,absolute_change,relative_change_pct
+2025-01-01,Nigeria,GDP growth (annual %),4.01336180700973,annual %,https://api.worldbank.org/v2/country/NGA/indicator/NY.GDP.MKTP.KD.ZG?format=json&per_page=100,2026-11-11,4.07106650147703,2024-01-01,-0.057704694467299866,-1.4174343368344373
+2025-01-01,Nigeria,Agriculture value added (% GDP),22.9790557916205,% GDP,https://api.worldbank.org/v2/country/NGA/indicator/NV.AGR.TOTL.ZS?format=json&per_page=100,2026-11-11,25.8733343606303,2024-01-01,-2.894278569009799,-11.186337750938769
+2025-01-01,Nigeria,Industry value added (% GDP),16.4434897602533,% GDP,https://api.worldbank.org/v2/country/NGA/indicator/NV.IND.TOTL.ZS?format=json&per_page=100,2026-11-11,18.1967486362453,2024-01-01,-1.7532588759919996,-9.635011787214342
+2025-01-01,Nigeria,Services value added (% GDP),58.2321782641716,% GDP,https://api.worldbank.org/v2/country/NGA/indicator/NV.SRV.TOTL.ZS?format=json&per_page=100,2026-11-11,53.7295617367143,2024-01-01,4.502616527457299,8.38014750524307

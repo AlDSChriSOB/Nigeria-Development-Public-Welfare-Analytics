@@ -1,0 +1,4 @@
+period,geography,metric,value,unit,source_url,vintage,previous_value,previous_period,absolute_change,relative_change_pct
+2024-01-01,Nigeria,Cereal yield (kg per hectare),1558.0,kg per hectare,https://api.worldbank.org/v2/country/NGA/indicator/AG.YLD.CREL.KG?format=json&per_page=100,2026-11-11,1548.6,2023-01-01,9.400000000000091,0.6069998708510972
+2024-01-01,Nigeria,Cereal production (metric tons),28473079.21,metric tons,https://api.worldbank.org/v2/country/NGA/indicator/AG.PRD.CREL.MT?format=json&per_page=100,2026-11-11,28048997.48,2023-01-01,424081.73000000045,1.5119318624574258
+2024-01-01,Nigeria,Land under cereal production (hectares),18275835.0,hectares,https://api.worldbank.org/v2/country/NGA/indicator/AG.LND.CREL.HA?format=json&per_page=100,2026-11-11,18112703.0,2023-01-01,163132.0,0.9006496711175577

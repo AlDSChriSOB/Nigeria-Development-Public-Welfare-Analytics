@@ -1,0 +1,122 @@
+[
+  {
+    "project": "01_gdp_and_economic_diversification",
+    "rows": 104,
+    "inspection": "{\"kind\":\"table\",\"sheet\":\"Overview\",\"address\":\"A4:B8\",\"rows\":5,\"cols\":2,\"values\":[[\"Scope\",\"National indicator preview\"],[\"Metric\",\"Agriculture value added (% GDP)\"],[\"Unit\",\"% GDP\"],[\"Observations\",104],[\"Latest observed value\",22.9790557916]]}",
+    "errors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+  },
+  {
+    "project": "02_growth_and_household_welfare",
+    "rows": 0,
+    "inspection": "{\"kind\":\"table\",\"sheet\":\"Overview\",\"address\":\"A4:B8\",\"rows\":5,\"cols\":2,\"values\":[[\"Scope\",\"Awaiting primary data\"],[\"Metric\",\"No observations supplied\"],[\"Unit\",\"Not yet defined\"],[\"Observations\",0],[\"Latest observed value\",\"No observations\"]]}",
+    "errors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+  },
+  {
+    "project": "03_food_prices_and_purchasing_power",
+    "rows": 0,
+    "inspection": "{\"kind\":\"table\",\"sheet\":\"Overview\",\"address\":\"A4:B8\",\"rows\":5,\"cols\":2,\"values\":[[\"Scope\",\"Awaiting primary data\"],[\"Metric\",\"No observations supplied\"],[\"Unit\",\"Not yet defined\"],[\"Observations\",0],[\"Latest observed value\",\"No observations\"]]}",
+    "errors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+  },
+  {
+    "project": "04_petrol_and_transport_costs",
+    "rows": 0,
+    "inspection": "{\"kind\":\"table\",\"sheet\":\"Overview\",\"address\":\"A4:B8\",\"rows\":5,\"cols\":2,\"values\":[[\"Scope\",\"Awaiting primary data\"],[\"Metric\",\"No observations supplied\"],[\"Unit\",\"Not yet defined\"],[\"Observations\",0],[\"Latest observed value\",\"No observations\"]]}",
+    "errors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+  },
+  {
+    "project": "05_security_and_civilian_exposure",
+    "rows": 0,
+    "inspection": "{\"kind\":\"table\",\"sheet\":\"Overview\",\"address\":\"A4:B8\",\"rows\":5,\"cols\":2,\"values\":[[\"Scope\",\"Awaiting primary data\"],[\"Metric\",\"No observations supplied\"],[\"Unit\",\"Not yet defined\"],[\"Observations\",0],[\"Latest observed value\",\"No observations\"]]}",
+    "errors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+  },
+  {
+    "project": "06_insecurity_and_agricultural_activity",
+    "rows": 0,
+    "inspection": "{\"kind\":\"table\",\"sheet\":\"Overview\",\"address\":\"A4:B8\",\"rows\":5,\"cols\":2,\"values\":[[\"Scope\",\"Awaiting primary data\"],[\"Metric\",\"No observations supplied\"],[\"Unit\",\"Not yet defined\"],[\"Observations\",0],[\"Latest observed value\",\"No observations\"]]}",
+    "errors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+  },
+  {
+    "project": "07_security_and_business_constraints",
+    "rows": 0,
+    "inspection": "{\"kind\":\"table\",\"sheet\":\"Overview\",\"address\":\"A4:B8\",\"rows\":5,\"cols\":2,\"values\":[[\"Scope\",\"Awaiting primary data\"],[\"Metric\",\"No observations supplied\"],[\"Unit\",\"Not yet defined\"],[\"Observations\",0],[\"Latest observed value\",\"No observations\"]]}",
+    "errors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+  },
+  {
+    "project": "08_crop_production_and_yield",
+    "rows": 75,
+    "inspection": "{\"kind\":\"table\",\"sheet\":\"Overview\",\"address\":\"A4:B8\",\"rows\":5,\"cols\":2,\"values\":[[\"Scope\",\"National indicator preview\"],[\"Metric\",\"Cereal production (metric tons)\"],[\"Unit\",\"metric tons\"],[\"Observations\",75],[\"Latest observed value\",28473079.21]]}",
+    "errors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+  },
+  {
+    "project": "09_inputs_irrigation_and_productivity",
+    "rows": 0,
+    "inspection": "{\"kind\":\"table\",\"sheet\":\"Overview\",\"address\":\"A4:B8\",\"rows\":5,\"cols\":2,\"values\":[[\"Scope\",\"Awaiting primary data\"],[\"Metric\",\"No observations supplied\"],[\"Unit\",\"Not yet defined\"],[\"Observations\",0],[\"Latest observed value\",\"No observations\"]]}",
+    "errors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+  },
+  {
+    "project": "10_storage_and_market_access",
+    "rows": 0,
+    "inspection": "{\"kind\":\"table\",\"sheet\":\"Overview\",\"address\":\"A4:B8\",\"rows\":5,\"cols\":2,\"values\":[[\"Scope\",\"Awaiting primary data\"],[\"Metric\",\"No observations supplied\"],[\"Unit\",\"Not yet defined\"],[\"Observations\",0],[\"Latest observed value\",\"No observations\"]]}",
+    "errors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+  },
+  {
+    "project": "11_rural_infrastructure_and_welfare",
+    "rows": 0,
+    "inspection": "{\"kind\":\"table\",\"sheet\":\"Overview\",\"address\":\"A4:B8\",\"rows\":5,\"cols\":2,\"values\":[[\"Scope\",\"Awaiting primary data\"],[\"Metric\",\"No observations supplied\"],[\"Unit\",\"Not yet defined\"],[\"Observations\",0],[\"Latest observed value\",\"No observations\"]]}",
+    "errors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+  },
+  {
+    "project": "12_electricity_and_economic_opportunity",
+    "rows": 75,
+    "inspection": "{\"kind\":\"table\",\"sheet\":\"Overview\",\"address\":\"A4:B8\",\"rows\":5,\"cols\":2,\"values\":[[\"Scope\",\"National indicator preview\"],[\"Metric\",\"Electricity access (% population)\"],[\"Unit\",\"% population\"],[\"Observations\",75],[\"Latest observed value\",62.5]]}",
+    "errors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+  },
+  {
+    "project": "13_water_sanitation_and_inequality",
+    "rows": 50,
+    "inspection": "{\"kind\":\"table\",\"sheet\":\"Overview\",\"address\":\"A4:B8\",\"rows\":5,\"cols\":2,\"values\":[[\"Scope\",\"National indicator preview\"],[\"Metric\",\"At least basic drinking water (% population)\"],[\"Unit\",\"% population\"],[\"Observations\",50],[\"Latest observed value\",82.2488935172]]}",
+    "errors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+  },
+  {
+    "project": "14_government_policy_and_approval",
+    "rows": 0,
+    "inspection": "{\"kind\":\"table\",\"sheet\":\"Overview\",\"address\":\"A4:B8\",\"rows\":5,\"cols\":2,\"values\":[[\"Scope\",\"Awaiting primary data\"],[\"Metric\",\"No observations supplied\"],[\"Unit\",\"Not yet defined\"],[\"Observations\",0],[\"Latest observed value\",\"No observations\"]]}",
+    "errors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+  },
+  {
+    "project": "15_public_mood_and_confidence",
+    "rows": 0,
+    "inspection": "{\"kind\":\"table\",\"sheet\":\"Overview\",\"address\":\"A4:B8\",\"rows\":5,\"cols\":2,\"values\":[[\"Scope\",\"Awaiting primary data\"],[\"Metric\",\"No observations supplied\"],[\"Unit\",\"Not yet defined\"],[\"Observations\",0],[\"Latest observed value\",\"No observations\"]]}",
+    "errors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+  },
+  {
+    "project": "16_road_crashes_across_states",
+    "rows": 0,
+    "inspection": "{\"kind\":\"table\",\"sheet\":\"Overview\",\"address\":\"A4:B8\",\"rows\":5,\"cols\":2,\"values\":[[\"Scope\",\"Awaiting primary data\"],[\"Metric\",\"No observations supplied\"],[\"Unit\",\"Not yet defined\"],[\"Observations\",0],[\"Latest observed value\",\"No observations\"]]}",
+    "errors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+  },
+  {
+    "project": "17_road_crash_seasonality",
+    "rows": 0,
+    "inspection": "{\"kind\":\"table\",\"sheet\":\"Overview\",\"address\":\"A4:B8\",\"rows\":5,\"cols\":2,\"values\":[[\"Scope\",\"Awaiting primary data\"],[\"Metric\",\"No observations supplied\"],[\"Unit\",\"Not yet defined\"],[\"Observations\",0],[\"Latest observed value\",\"No observations\"]]}",
+    "errors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+  },
+  {
+    "project": "18_crash_severity_and_contributing_factors",
+    "rows": 0,
+    "inspection": "{\"kind\":\"table\",\"sheet\":\"Overview\",\"address\":\"A4:B8\",\"rows\":5,\"cols\":2,\"values\":[[\"Scope\",\"Awaiting primary data\"],[\"Metric\",\"No observations supplied\"],[\"Unit\",\"Not yet defined\"],[\"Observations\",0],[\"Latest observed value\",\"No observations\"]]}",
+    "errors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+  },
+  {
+    "project": "19_healthcare_and_financial_barriers",
+    "rows": 48,
+    "inspection": "{\"kind\":\"table\",\"sheet\":\"Overview\",\"address\":\"A4:B8\",\"rows\":5,\"cols\":2,\"values\":[[\"Scope\",\"National indicator preview\"],[\"Metric\",\"Current health expenditure (% GDP)\"],[\"Unit\",\"% GDP\"],[\"Observations\",48],[\"Latest observed value\",4.19086456]]}",
+    "errors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+  },
+  {
+    "project": "20_maternal_and_child_healthcare",
+    "rows": 57,
+    "inspection": "{\"kind\":\"table\",\"sheet\":\"Overview\",\"address\":\"A4:B8\",\"rows\":5,\"cols\":2,\"values\":[[\"Scope\",\"National indicator preview\"],[\"Metric\",\"Births attended by skilled health staff (% total)\"],[\"Unit\",\"% total\"],[\"Observations\",57],[\"Latest observed value\",50.7]]}",
+    "errors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+  }
+]

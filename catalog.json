@@ -1,0 +1,265 @@
+[
+  {
+    "id": 1,
+    "title": "GDP and Economic Diversification",
+    "slug": "01_gdp_and_economic_diversification",
+    "question": "Which sectors account for output and how has real GDP changed?",
+    "source": "NBS GDP tables; World Bank WDI national preview",
+    "source_url": "https://microdata.nigerianstat.gov.ng/index.php/catalog/147",
+    "kpi": "Sector shares and real GDP growth",
+    "caveat": "Do not splice GDP vintages or confuse nominal value added shares with real growth.",
+    "indicators": {
+      "NY.GDP.MKTP.KD.ZG": "GDP growth (annual %)",
+      "NV.AGR.TOTL.ZS": "Agriculture value added (% GDP)",
+      "NV.IND.TOTL.ZS": "Industry value added (% GDP)",
+      "NV.SRV.TOTL.ZS": "Services value added (% GDP)"
+    },
+    "status": "NATIONAL_PREVIEW_READY"
+  },
+  {
+    "id": 2,
+    "title": "Growth and Household Welfare",
+    "slug": "02_growth_and_household_welfare",
+    "question": "Do growth and household welfare improve together?",
+    "source": "GHS-Panel and NBS GDP",
+    "source_url": "https://microdata.worldbank.org/catalog/6410",
+    "kpi": "Real consumption per adult equivalent; poverty headcount",
+    "caveat": "Respect survey design and attrition. Match welfare waves and GDP vintages.",
+    "indicators": {},
+    "status": "AWAITING_PRIMARY_DATA"
+  },
+  {
+    "id": 3,
+    "title": "Food Prices and Purchasing Power",
+    "slug": "03_food_prices_and_purchasing_power",
+    "question": "Which state food baskets have the highest cost increases?",
+    "source": "NBS Selected Food Prices Watch",
+    "source_url": "https://www.nigerianstat.gov.ng/elibrary",
+    "kpi": "Fixed-basket cost and year-on-year food-price change",
+    "caveat": "Keep product specifications, physical quantities and units constant.",
+    "indicators": {},
+    "status": "AWAITING_PRIMARY_DATA"
+  },
+  {
+    "id": 4,
+    "title": "Petrol and Transport Costs",
+    "slug": "04_petrol_and_transport_costs",
+    "question": "How do fuel and passenger-fare changes co-move?",
+    "source": "NBS Petrol Price Watch and Transport Fare Watch",
+    "source_url": "https://www.nigerianstat.gov.ng/elibrary",
+    "kpi": "NGN per litre; fare by transport mode",
+    "caveat": "Align state-month-mode keys. Price co-movement does not identify subsidy effects.",
+    "indicators": {},
+    "status": "AWAITING_PRIMARY_DATA"
+  },
+  {
+    "id": 5,
+    "title": "Security and Civilian Exposure",
+    "slug": "05_security_and_civilian_exposure",
+    "question": "How does reported violence vary across states and months?",
+    "source": "ACLED; compatible population estimates",
+    "source_url": "https://acleddata.com/conflict-data/download-data",
+    "kpi": "Reported incidents; reported fatalities; exposed population",
+    "caveat": "Requires authorised ACLED data. Document sourcing changes; counts are not all crime.",
+    "indicators": {},
+    "status": "AWAITING_PRIMARY_DATA"
+  },
+  {
+    "id": 6,
+    "title": "Insecurity and Agricultural Activity",
+    "slug": "06_insecurity_and_agricultural_activity",
+    "question": "Are cultivation and harvest outcomes associated with conflict exposure?",
+    "source": "ACLED and GHS-Panel",
+    "source_url": "https://microdata.worldbank.org/catalog/6410",
+    "kpi": "Harvest per hectare and conflict exposure",
+    "caveat": "Geospatial displacement, reporting bias and confounding prevent simple causal claims.",
+    "indicators": {},
+    "status": "AWAITING_PRIMARY_DATA"
+  },
+  {
+    "id": 7,
+    "title": "Security and Business Constraints",
+    "slug": "07_security_and_business_constraints",
+    "question": "Which constraints are reported by households and enterprises?",
+    "source": "Afrobarometer and GHS-Panel",
+    "source_url": "https://www.afrobarometer.org/survey-resource/nigeria-round-10-data-2024/",
+    "kpi": "Weighted share reporting each constraint",
+    "caveat": "Survey opinions and business measurements are distinct populations. Do not join respondent records across surveys.",
+    "indicators": {},
+    "status": "AWAITING_PRIMARY_DATA"
+  },
+  {
+    "id": 8,
+    "title": "Crop Production and Yield",
+    "slug": "08_crop_production_and_yield",
+    "question": "Does production growth reflect higher yields or cultivated-area expansion?",
+    "source": "FAOSTAT; WDI cereal-yield preview",
+    "source_url": "https://www.fao.org/faostat/en/",
+    "kpi": "Tonnes; hectares; kilograms per hectare",
+    "caveat": "WDI preview covers cereals only, not all Nigerian crops. FAOSTAT crop-level decomposition remains pending.",
+    "indicators": {
+      "AG.YLD.CREL.KG": "Cereal yield (kg per hectare)",
+      "AG.PRD.CREL.MT": "Cereal production (metric tons)",
+      "AG.LND.CREL.HA": "Land under cereal production (hectares)"
+    },
+    "status": "NATIONAL_PREVIEW_READY"
+  },
+  {
+    "id": 9,
+    "title": "Inputs Irrigation and Productivity",
+    "slug": "09_inputs_irrigation_and_productivity",
+    "question": "How do crop yields vary with irrigation and input use?",
+    "source": "GHS-Panel agricultural plot modules",
+    "source_url": "https://microdata.worldbank.org/catalog/6410",
+    "kpi": "Yield by irrigation and input category",
+    "caveat": "Convert harvest and area units; retain crop-specific denominators and survey weights.",
+    "indicators": {},
+    "status": "AWAITING_PRIMARY_DATA"
+  },
+  {
+    "id": 10,
+    "title": "Storage and Market Access",
+    "slug": "10_storage_and_market_access",
+    "question": "Which communities lack agricultural storage and market access?",
+    "source": "GHS-Panel community and agriculture modules",
+    "source_url": "https://microdata.worldbank.org/catalog/6410",
+    "kpi": "Reported storage access; travel time to market",
+    "caveat": "Confirm actual questionnaire variables before deriving an indicator. Do not infer cold storage from generic storage.",
+    "indicators": {},
+    "status": "AWAITING_PRIMARY_DATA"
+  },
+  {
+    "id": 11,
+    "title": "Rural Infrastructure and Welfare",
+    "slug": "11_rural_infrastructure_and_welfare",
+    "question": "How do service access and welfare differ across rural communities?",
+    "source": "GHS-Panel community and household modules",
+    "source_url": "https://microdata.worldbank.org/catalog/6410",
+    "kpi": "Weighted access proportions; real consumption",
+    "caveat": "GHS-Panel supports national and zone estimates; do not assume state representativeness.",
+    "indicators": {},
+    "status": "AWAITING_PRIMARY_DATA"
+  },
+  {
+    "id": 12,
+    "title": "Electricity and Economic Opportunity",
+    "slug": "12_electricity_and_economic_opportunity",
+    "question": "How does electricity access relate to work and enterprise activity?",
+    "source": "Afrobarometer; GHS-Panel; WDI access preview",
+    "source_url": "https://data.worldbank.org/country/nigeria",
+    "kpi": "Access proportion; reliability; enterprise outcomes",
+    "caveat": "National WDI access does not measure reliability or identify enterprise effects.",
+    "indicators": {
+      "EG.ELC.ACCS.ZS": "Electricity access (% population)",
+      "EG.ELC.ACCS.RU.ZS": "Rural electricity access (% rural population)",
+      "EG.ELC.ACCS.UR.ZS": "Urban electricity access (% urban population)"
+    },
+    "status": "NATIONAL_PREVIEW_READY"
+  },
+  {
+    "id": 13,
+    "title": "Water Sanitation and Inequality",
+    "slug": "13_water_sanitation_and_inequality",
+    "question": "Who lacks basic water and sanitation services?",
+    "source": "NDHS; WDI/JMP national preview",
+    "source_url": "https://microdata.worldbank.org/catalog/8029",
+    "kpi": "Basic water and sanitation access",
+    "caveat": "National estimates cannot produce state or wealth-group inequalities. Survey extensions remain pending.",
+    "indicators": {
+      "SH.H2O.BASW.ZS": "At least basic drinking water (% population)",
+      "SH.STA.BASS.ZS": "At least basic sanitation (% population)"
+    },
+    "status": "NATIONAL_PREVIEW_READY"
+  },
+  {
+    "id": 14,
+    "title": "Government Policy and Approval",
+    "slug": "14_government_policy_and_approval",
+    "question": "How do Nigerians assess policies and government performance?",
+    "source": "Afrobarometer Nigeria Round 10",
+    "source_url": "https://www.afrobarometer.org/survey-resource/nigeria-round-10-data-2024/",
+    "kpi": "Weighted approval by policy and demographic group",
+    "caveat": "Verify question wording, coding, eligible denominator and sample design; approval is not policy impact.",
+    "indicators": {},
+    "status": "AWAITING_PRIMARY_DATA"
+  },
+  {
+    "id": 15,
+    "title": "Public Mood and Confidence",
+    "slug": "15_public_mood_and_confidence",
+    "question": "How do Nigerians assess the economy and country direction?",
+    "source": "Afrobarometer comparable Nigerian rounds",
+    "source_url": "https://www.afrobarometer.org/countries/nigeria/",
+    "kpi": "Weighted positive response proportion by question and round",
+    "caveat": "Survey attitudes are not a clinical mood score. Harmonise questions and response codes across rounds.",
+    "indicators": {},
+    "status": "AWAITING_PRIMARY_DATA"
+  },
+  {
+    "id": 16,
+    "title": "Road Crashes across States",
+    "slug": "16_road_crashes_across_states",
+    "question": "Which states record the highest crash burden and severity?",
+    "source": "NBS/FRSC Road Transport Data",
+    "source_url": "https://microdata.nigerianstat.gov.ng/index.php/catalog/164",
+    "kpi": "Crashes; deaths; injuries; deaths per 100 crashes",
+    "caveat": "Population rates are not travel-exposure rates. Counts depend on reporting and road usage.",
+    "indicators": {},
+    "status": "AWAITING_PRIMARY_DATA"
+  },
+  {
+    "id": 17,
+    "title": "Road Crash Seasonality",
+    "slug": "17_road_crash_seasonality",
+    "question": "Which observed periods have unusually high crash counts?",
+    "source": "NBS/FRSC multiple road-transport releases",
+    "source_url": "https://microdata.nigerianstat.gov.ng/index.php/catalog/164",
+    "kpi": "Quarterly crashes and same-quarter annual change",
+    "caveat": "Quarterly totals do not reveal dangerous hours or weekdays. Event timestamps are required for finer timing.",
+    "indicators": {},
+    "status": "AWAITING_PRIMARY_DATA"
+  },
+  {
+    "id": 18,
+    "title": "Crash Severity and Contributing Factors",
+    "slug": "18_crash_severity_and_contributing_factors",
+    "question": "How do reported factors relate to crash severity?",
+    "source": "FRSC/NBS factor and severity tables",
+    "source_url": "https://microdata.nigerianstat.gov.ng/index.php/catalog/164",
+    "kpi": "Fatal crashes / crashes by factor when available",
+    "caveat": "Aggregate factor counts may overlap and may not be joined to severity. No factor-specific risk without compatible records.",
+    "indicators": {},
+    "status": "AWAITING_PRIMARY_DATA"
+  },
+  {
+    "id": 19,
+    "title": "Healthcare and Financial Barriers",
+    "slug": "19_healthcare_and_financial_barriers",
+    "question": "Who experiences financial barriers to healthcare?",
+    "source": "GHS-Panel health; NDHS; WDI financing preview",
+    "source_url": "https://microdata.worldbank.org/catalog/6410",
+    "kpi": "Reported unmet need; out-of-pocket share",
+    "caveat": "WDI financing share is not the percentage of households with catastrophic expenditure.",
+    "indicators": {
+      "SH.XPD.OOPC.CH.ZS": "Out-of-pocket spending (% current health expenditure)",
+      "SH.XPD.CHEX.GD.ZS": "Current health expenditure (% GDP)"
+    },
+    "status": "NATIONAL_PREVIEW_READY"
+  },
+  {
+    "id": 20,
+    "title": "Maternal and Child Healthcare",
+    "slug": "20_maternal_and_child_healthcare",
+    "question": "Where are maternal-care and child-vaccination gaps largest?",
+    "source": "NDHS 2024; WDI national preview",
+    "source_url": "https://microdata.worldbank.org/catalog/8029",
+    "kpi": "Skilled birth attendance; child immunisation",
+    "caveat": "WDI national trends do not fulfil state or demographic inequalities; denominator populations differ by indicator.",
+    "indicators": {
+      "SH.STA.BRTC.ZS": "Births attended by skilled health staff (% total)",
+      "SH.IMM.IDPT": "DPT immunisation (% children ages 12-23 months)",
+      "SH.IMM.MEAS": "Measles immunisation (% children ages 12-23 months)"
+    },
+    "status": "NATIONAL_PREVIEW_READY"
+  }
+]

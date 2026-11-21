@@ -1,0 +1,13 @@
+{
+  "status": "EXECUTED",
+  "scope": "NATIONAL_PREVIEW_ONLY",
+  "utc": "2026-11-21T17:58:26.124713+00:00",
+  "rows": 78,
+  "metrics": [
+    "Births attended by skilled health staff (% total)",
+    "DPT immunisation (% children ages 12-23 months)",
+    "Measles immunisation (% children ages 12-23 months)"
+  ],
+  "primary_case_complete": false,
+  "native_bi_validated": false
+}

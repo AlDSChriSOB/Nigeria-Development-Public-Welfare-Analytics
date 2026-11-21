@@ -1,0 +1,79 @@
+period,geography,metric,value,unit,source_url,vintage
+2000-01-01,Nigeria,Births attended by skilled health staff (% total),,% total,https://api.worldbank.org/v2/country/NGA/indicator/SH.STA.BRTC.ZS?format=json&per_page=100,2026-11-11
+2000-01-01,Nigeria,DPT immunisation (% children ages 12-23 months),29.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.IDPT?format=json&per_page=100,2026-11-11
+2000-01-01,Nigeria,Measles immunisation (% children ages 12-23 months),33.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.MEAS?format=json&per_page=100,2026-11-11
+2001-01-01,Nigeria,Births attended by skilled health staff (% total),,% total,https://api.worldbank.org/v2/country/NGA/indicator/SH.STA.BRTC.ZS?format=json&per_page=100,2026-11-11
+2001-01-01,Nigeria,DPT immunisation (% children ages 12-23 months),27.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.IDPT?format=json&per_page=100,2026-11-11
+2001-01-01,Nigeria,Measles immunisation (% children ages 12-23 months),32.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.MEAS?format=json&per_page=100,2026-11-11
+2002-01-01,Nigeria,Births attended by skilled health staff (% total),,% total,https://api.worldbank.org/v2/country/NGA/indicator/SH.STA.BRTC.ZS?format=json&per_page=100,2026-11-11
+2002-01-01,Nigeria,DPT immunisation (% children ages 12-23 months),25.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.IDPT?format=json&per_page=100,2026-11-11
+2002-01-01,Nigeria,Measles immunisation (% children ages 12-23 months),30.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.MEAS?format=json&per_page=100,2026-11-11
+2003-01-01,Nigeria,Births attended by skilled health staff (% total),35.2,% total,https://api.worldbank.org/v2/country/NGA/indicator/SH.STA.BRTC.ZS?format=json&per_page=100,2026-11-11
+2003-01-01,Nigeria,DPT immunisation (% children ages 12-23 months),29.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.IDPT?format=json&per_page=100,2026-11-11
+2003-01-01,Nigeria,Measles immunisation (% children ages 12-23 months),34.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.MEAS?format=json&per_page=100,2026-11-11
+2004-01-01,Nigeria,Births attended by skilled health staff (% total),,% total,https://api.worldbank.org/v2/country/NGA/indicator/SH.STA.BRTC.ZS?format=json&per_page=100,2026-11-11
+2004-01-01,Nigeria,DPT immunisation (% children ages 12-23 months),33.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.IDPT?format=json&per_page=100,2026-11-11
+2004-01-01,Nigeria,Measles immunisation (% children ages 12-23 months),37.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.MEAS?format=json&per_page=100,2026-11-11
+2005-01-01,Nigeria,Births attended by skilled health staff (% total),,% total,https://api.worldbank.org/v2/country/NGA/indicator/SH.STA.BRTC.ZS?format=json&per_page=100,2026-11-11
+2005-01-01,Nigeria,DPT immunisation (% children ages 12-23 months),36.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.IDPT?format=json&per_page=100,2026-11-11
+2005-01-01,Nigeria,Measles immunisation (% children ages 12-23 months),41.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.MEAS?format=json&per_page=100,2026-11-11
+2006-01-01,Nigeria,Births attended by skilled health staff (% total),,% total,https://api.worldbank.org/v2/country/NGA/indicator/SH.STA.BRTC.ZS?format=json&per_page=100,2026-11-11
+2006-01-01,Nigeria,DPT immunisation (% children ages 12-23 months),40.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.IDPT?format=json&per_page=100,2026-11-11
+2006-01-01,Nigeria,Measles immunisation (% children ages 12-23 months),44.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.MEAS?format=json&per_page=100,2026-11-11
+2007-01-01,Nigeria,Births attended by skilled health staff (% total),,% total,https://api.worldbank.org/v2/country/NGA/indicator/SH.STA.BRTC.ZS?format=json&per_page=100,2026-11-11
+2007-01-01,Nigeria,DPT immunisation (% children ages 12-23 months),42.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.IDPT?format=json&per_page=100,2026-11-11
+2007-01-01,Nigeria,Measles immunisation (% children ages 12-23 months),41.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.MEAS?format=json&per_page=100,2026-11-11
+2008-01-01,Nigeria,Births attended by skilled health staff (% total),34.4,% total,https://api.worldbank.org/v2/country/NGA/indicator/SH.STA.BRTC.ZS?format=json&per_page=100,2026-11-11
+2008-01-01,Nigeria,DPT immunisation (% children ages 12-23 months),53.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.IDPT?format=json&per_page=100,2026-11-11
+2008-01-01,Nigeria,Measles immunisation (% children ages 12-23 months),53.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.MEAS?format=json&per_page=100,2026-11-11
+2009-01-01,Nigeria,Births attended by skilled health staff (% total),,% total,https://api.worldbank.org/v2/country/NGA/indicator/SH.STA.BRTC.ZS?format=json&per_page=100,2026-11-11
+2009-01-01,Nigeria,DPT immunisation (% children ages 12-23 months),63.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.IDPT?format=json&per_page=100,2026-11-11
+2009-01-01,Nigeria,Measles immunisation (% children ages 12-23 months),64.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.MEAS?format=json&per_page=100,2026-11-11
+2010-01-01,Nigeria,Births attended by skilled health staff (% total),,% total,https://api.worldbank.org/v2/country/NGA/indicator/SH.STA.BRTC.ZS?format=json&per_page=100,2026-11-11
+2010-01-01,Nigeria,DPT immunisation (% children ages 12-23 months),56.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.IDPT?format=json&per_page=100,2026-11-11
+2010-01-01,Nigeria,Measles immunisation (% children ages 12-23 months),56.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.MEAS?format=json&per_page=100,2026-11-11
+2011-01-01,Nigeria,Births attended by skilled health staff (% total),47.3,% total,https://api.worldbank.org/v2/country/NGA/indicator/SH.STA.BRTC.ZS?format=json&per_page=100,2026-11-11
+2011-01-01,Nigeria,DPT immunisation (% children ages 12-23 months),53.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.IDPT?format=json&per_page=100,2026-11-11
+2011-01-01,Nigeria,Measles immunisation (% children ages 12-23 months),53.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.MEAS?format=json&per_page=100,2026-11-11
+2012-01-01,Nigeria,Births attended by skilled health staff (% total),,% total,https://api.worldbank.org/v2/country/NGA/indicator/SH.STA.BRTC.ZS?format=json&per_page=100,2026-11-11
+2012-01-01,Nigeria,DPT immunisation (% children ages 12-23 months),36.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.IDPT?format=json&per_page=100,2026-11-11
+2012-01-01,Nigeria,Measles immunisation (% children ages 12-23 months),41.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.MEAS?format=json&per_page=100,2026-11-11
+2013-01-01,Nigeria,Births attended by skilled health staff (% total),35.2,% total,https://api.worldbank.org/v2/country/NGA/indicator/SH.STA.BRTC.ZS?format=json&per_page=100,2026-11-11
+2013-01-01,Nigeria,DPT immunisation (% children ages 12-23 months),39.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.IDPT?format=json&per_page=100,2026-11-11
+2013-01-01,Nigeria,Measles immunisation (% children ages 12-23 months),42.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.MEAS?format=json&per_page=100,2026-11-11
+2014-01-01,Nigeria,Births attended by skilled health staff (% total),,% total,https://api.worldbank.org/v2/country/NGA/indicator/SH.STA.BRTC.ZS?format=json&per_page=100,2026-11-11
+2014-01-01,Nigeria,DPT immunisation (% children ages 12-23 months),43.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.IDPT?format=json&per_page=100,2026-11-11
+2014-01-01,Nigeria,Measles immunisation (% children ages 12-23 months),42.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.MEAS?format=json&per_page=100,2026-11-11
+2015-01-01,Nigeria,Births attended by skilled health staff (% total),,% total,https://api.worldbank.org/v2/country/NGA/indicator/SH.STA.BRTC.ZS?format=json&per_page=100,2026-11-11
+2015-01-01,Nigeria,DPT immunisation (% children ages 12-23 months),42.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.IDPT?format=json&per_page=100,2026-11-11
+2015-01-01,Nigeria,Measles immunisation (% children ages 12-23 months),42.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.MEAS?format=json&per_page=100,2026-11-11
+2016-01-01,Nigeria,Births attended by skilled health staff (% total),,% total,https://api.worldbank.org/v2/country/NGA/indicator/SH.STA.BRTC.ZS?format=json&per_page=100,2026-11-11
+2016-01-01,Nigeria,DPT immunisation (% children ages 12-23 months),53.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.IDPT?format=json&per_page=100,2026-11-11
+2016-01-01,Nigeria,Measles immunisation (% children ages 12-23 months),48.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.MEAS?format=json&per_page=100,2026-11-11
+2017-01-01,Nigeria,Births attended by skilled health staff (% total),43.0,% total,https://api.worldbank.org/v2/country/NGA/indicator/SH.STA.BRTC.ZS?format=json&per_page=100,2026-11-11
+2017-01-01,Nigeria,DPT immunisation (% children ages 12-23 months),55.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.IDPT?format=json&per_page=100,2026-11-11
+2017-01-01,Nigeria,Measles immunisation (% children ages 12-23 months),54.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.MEAS?format=json&per_page=100,2026-11-11
+2018-01-01,Nigeria,Births attended by skilled health staff (% total),43.3,% total,https://api.worldbank.org/v2/country/NGA/indicator/SH.STA.BRTC.ZS?format=json&per_page=100,2026-11-11
+2018-01-01,Nigeria,DPT immunisation (% children ages 12-23 months),61.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.IDPT?format=json&per_page=100,2026-11-11
+2018-01-01,Nigeria,Measles immunisation (% children ages 12-23 months),56.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.MEAS?format=json&per_page=100,2026-11-11
+2019-01-01,Nigeria,Births attended by skilled health staff (% total),,% total,https://api.worldbank.org/v2/country/NGA/indicator/SH.STA.BRTC.ZS?format=json&per_page=100,2026-11-11
+2019-01-01,Nigeria,DPT immunisation (% children ages 12-23 months),66.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.IDPT?format=json&per_page=100,2026-11-11
+2019-01-01,Nigeria,Measles immunisation (% children ages 12-23 months),58.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.MEAS?format=json&per_page=100,2026-11-11
+2020-01-01,Nigeria,Births attended by skilled health staff (% total),,% total,https://api.worldbank.org/v2/country/NGA/indicator/SH.STA.BRTC.ZS?format=json&per_page=100,2026-11-11
+2020-01-01,Nigeria,DPT immunisation (% children ages 12-23 months),62.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.IDPT?format=json&per_page=100,2026-11-11
+2020-01-01,Nigeria,Measles immunisation (% children ages 12-23 months),60.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.MEAS?format=json&per_page=100,2026-11-11
+2021-01-01,Nigeria,Births attended by skilled health staff (% total),,% total,https://api.worldbank.org/v2/country/NGA/indicator/SH.STA.BRTC.ZS?format=json&per_page=100,2026-11-11
+2021-01-01,Nigeria,DPT immunisation (% children ages 12-23 months),61.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.IDPT?format=json&per_page=100,2026-11-11
+2021-01-01,Nigeria,Measles immunisation (% children ages 12-23 months),56.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.MEAS?format=json&per_page=100,2026-11-11
+2022-01-01,Nigeria,Births attended by skilled health staff (% total),50.7,% total,https://api.worldbank.org/v2/country/NGA/indicator/SH.STA.BRTC.ZS?format=json&per_page=100,2026-11-11
+2022-01-01,Nigeria,DPT immunisation (% children ages 12-23 months),59.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.IDPT?format=json&per_page=100,2026-11-11
+2022-01-01,Nigeria,Measles immunisation (% children ages 12-23 months),51.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.MEAS?format=json&per_page=100,2026-11-11
+2023-01-01,Nigeria,Births attended by skilled health staff (% total),,% total,https://api.worldbank.org/v2/country/NGA/indicator/SH.STA.BRTC.ZS?format=json&per_page=100,2026-11-11
+2023-01-01,Nigeria,DPT immunisation (% children ages 12-23 months),67.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.IDPT?format=json&per_page=100,2026-11-11
+2023-01-01,Nigeria,Measles immunisation (% children ages 12-23 months),54.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.MEAS?format=json&per_page=100,2026-11-11
+2024-01-01,Nigeria,Births attended by skilled health staff (% total),,% total,https://api.worldbank.org/v2/country/NGA/indicator/SH.STA.BRTC.ZS?format=json&per_page=100,2026-11-11
+2024-01-01,Nigeria,DPT immunisation (% children ages 12-23 months),67.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.IDPT?format=json&per_page=100,2026-11-11
+2024-01-01,Nigeria,Measles immunisation (% children ages 12-23 months),57.0,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.MEAS?format=json&per_page=100,2026-11-11
+2025-01-01,Nigeria,Births attended by skilled health staff (% total),,% total,https://api.worldbank.org/v2/country/NGA/indicator/SH.STA.BRTC.ZS?format=json&per_page=100,2026-11-11
+2025-01-01,Nigeria,DPT immunisation (% children ages 12-23 months),,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.IDPT?format=json&per_page=100,2026-11-11
+2025-01-01,Nigeria,Measles immunisation (% children ages 12-23 months),,% children ages 12-23 months,https://api.worldbank.org/v2/country/NGA/indicator/SH.IMM.MEAS?format=json&per_page=100,2026-11-11

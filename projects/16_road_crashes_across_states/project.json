@@ -1,0 +1,12 @@
+{
+  "id": 16,
+  "title": "Road Crashes across States",
+  "slug": "16_road_crashes_across_states",
+  "question": "Which states record the highest crash burden and severity?",
+  "source": "NBS/FRSC Road Transport Data",
+  "source_url": "https://microdata.nigerianstat.gov.ng/index.php/catalog/164",
+  "kpi": "Crashes; deaths; injuries; deaths per 100 crashes",
+  "caveat": "Population rates are not travel-exposure rates. Counts depend on reporting and road usage.",
+  "indicators": {},
+  "status": "AWAITING_PRIMARY_DATA"
+}

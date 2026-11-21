@@ -1,0 +1,12 @@
+{
+  "id": 18,
+  "title": "Crash Severity and Contributing Factors",
+  "slug": "18_crash_severity_and_contributing_factors",
+  "question": "How do reported factors relate to crash severity?",
+  "source": "FRSC/NBS factor and severity tables",
+  "source_url": "https://microdata.nigerianstat.gov.ng/index.php/catalog/164",
+  "kpi": "Fatal crashes / crashes by factor when available",
+  "caveat": "Aggregate factor counts may overlap and may not be joined to severity. No factor-specific risk without compatible records.",
+  "indicators": {},
+  "status": "AWAITING_PRIMARY_DATA"
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.OOPC.CH.ZS?format=json&per_page=100",
+    "sha256": "363475f9ab8d050604d05d1861c49e345a9cb2ca21a06b02eecac6d77d4730b1",
+    "lastupdated": "2026-11-11"
+  },
+  {
+    "url": "https://api.worldbank.org/v2/country/NGA/indicator/SH.XPD.CHEX.GD.ZS?format=json&per_page=100",
+    "sha256": "1d5bdacc4801b754ff676bc8c2212af85347613a5c06cd13639cd9443cefe108",
+    "lastupdated": "2026-11-11"
+  }
+]

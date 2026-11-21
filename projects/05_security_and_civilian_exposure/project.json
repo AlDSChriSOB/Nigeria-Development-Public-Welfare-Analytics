@@ -1,0 +1,12 @@
+{
+  "id": 5,
+  "title": "Security and Civilian Exposure",
+  "slug": "05_security_and_civilian_exposure",
+  "question": "How does reported violence vary across states and months?",
+  "source": "ACLED; compatible population estimates",
+  "source_url": "https://acleddata.com/conflict-data/download-data",
+  "kpi": "Reported incidents; reported fatalities; exposed population",
+  "caveat": "Requires authorised ACLED data. Document sourcing changes; counts are not all crime.",
+  "indicators": {},
+  "status": "AWAITING_PRIMARY_DATA"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 17,
+  "title": "Road Crash Seasonality",
+  "slug": "17_road_crash_seasonality",
+  "question": "Which observed periods have unusually high crash counts?",
+  "source": "NBS/FRSC multiple road-transport releases",
+  "source_url": "https://microdata.nigerianstat.gov.ng/index.php/catalog/164",
+  "kpi": "Quarterly crashes and same-quarter annual change",
+  "caveat": "Quarterly totals do not reveal dangerous hours or weekdays. Event timestamps are required for finer timing.",
+  "indicators": {},
+  "status": "AWAITING_PRIMARY_DATA"
+}

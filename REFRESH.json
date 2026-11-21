@@ -1,0 +1,124 @@
+{
+  "checked_utc": "2026-11-21T17:58:18.333558+00:00",
+  "sources": [
+    {
+      "project": "01_gdp_and_economic_diversification",
+      "indicator": "NY.GDP.MKTP.KD.ZG",
+      "downloaded": true,
+      "changed": false,
+      "source_lastupdated": "2026-11-11"
+    },
+    {
+      "project": "01_gdp_and_economic_diversification",
+      "indicator": "NV.AGR.TOTL.ZS",
+      "downloaded": true,
+      "changed": false,
+      "source_lastupdated": "2026-11-11"
+    },
+    {
+      "project": "01_gdp_and_economic_diversification",
+      "indicator": "NV.IND.TOTL.ZS",
+      "downloaded": true,
+      "changed": false,
+      "source_lastupdated": "2026-11-11"
+    },
+    {
+      "project": "01_gdp_and_economic_diversification",
+      "indicator": "NV.SRV.TOTL.ZS",
+      "downloaded": true,
+      "changed": false,
+      "source_lastupdated": "2026-11-11"
+    },
+    {
+      "project": "08_crop_production_and_yield",
+      "indicator": "AG.YLD.CREL.KG",
+      "downloaded": true,
+      "changed": false,
+      "source_lastupdated": "2026-11-11"
+    },
+    {
+      "project": "08_crop_production_and_yield",
+      "indicator": "AG.PRD.CREL.MT",
+      "downloaded": true,
+      "changed": false,
+      "source_lastupdated": "2026-11-11"
+    },
+    {
+      "project": "08_crop_production_and_yield",
+      "indicator": "AG.LND.CREL.HA",
+      "downloaded": true,
+      "changed": false,
+      "source_lastupdated": "2026-11-11"
+    },
+    {
+      "project": "12_electricity_and_economic_opportunity",
+      "indicator": "EG.ELC.ACCS.ZS",
+      "downloaded": true,
+      "changed": false,
+      "source_lastupdated": "2026-11-11"
+    },
+    {
+      "project": "12_electricity_and_economic_opportunity",
+      "indicator": "EG.ELC.ACCS.RU.ZS",
+      "downloaded": true,
+      "changed": false,
+      "source_lastupdated": "2026-11-11"
+    },
+    {
+      "project": "12_electricity_and_economic_opportunity",
+      "indicator": "EG.ELC.ACCS.UR.ZS",
+      "downloaded": true,
+      "changed": false,
+      "source_lastupdated": "2026-11-11"
+    },
+    {
+      "project": "13_water_sanitation_and_inequality",
+      "indicator": "SH.H2O.BASW.ZS",
+      "downloaded": true,
+      "changed": false,
+      "source_lastupdated": "2026-11-11"
+    },
+    {
+      "project": "13_water_sanitation_and_inequality",
+      "indicator": "SH.STA.BASS.ZS",
+      "downloaded": true,
+      "changed": false,
+      "source_lastupdated": "2026-11-11"
+    },
+    {
+      "project": "19_healthcare_and_financial_barriers",
+      "indicator": "SH.XPD.OOPC.CH.ZS",
+      "downloaded": true,
+      "changed": false,
+      "source_lastupdated": "2026-11-11"
+    },
+    {
+      "project": "19_healthcare_and_financial_barriers",
+      "indicator": "SH.XPD.CHEX.GD.ZS",
+      "downloaded": true,
+      "changed": false,
+      "source_lastupdated": "2026-11-11"
+    },
+    {
+      "project": "20_maternal_and_child_healthcare",
+      "indicator": "SH.STA.BRTC.ZS",
+      "downloaded": true,
+      "changed": false,
+      "source_lastupdated": "2026-11-11"
+    },
+    {
+      "project": "20_maternal_and_child_healthcare",
+      "indicator": "SH.IMM.IDPT",
+      "downloaded": true,
+      "changed": false,
+      "source_lastupdated": "2026-11-11"
+    },
+    {
+      "project": "20_maternal_and_child_healthcare",
+      "indicator": "SH.IMM.MEAS",
+      "downloaded": true,
+      "changed": false,
+      "source_lastupdated": "2026-11-11"
+    }
+  ]
+}

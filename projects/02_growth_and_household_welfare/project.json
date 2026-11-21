@@ -1,0 +1,12 @@
+{
+  "id": 2,
+  "title": "Growth and Household Welfare",
+  "slug": "02_growth_and_household_welfare",
+  "question": "Do growth and household welfare improve together?",
+  "source": "GHS-Panel and NBS GDP",
+  "source_url": "https://microdata.worldbank.org/catalog/6410",
+  "kpi": "Real consumption per adult equivalent; poverty headcount",
+  "caveat": "Respect survey design and attrition. Match welfare waves and GDP vintages.",
+  "indicators": {},
+  "status": "AWAITING_PRIMARY_DATA"
+}

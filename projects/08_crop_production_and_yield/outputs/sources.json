@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://api.worldbank.org/v2/country/NGA/indicator/AG.YLD.CREL.KG?format=json&per_page=100",
+    "sha256": "9f4a6a5bc9d685745118022e14a925c46c43c9e15b4f7463744fe3f293d3f967",
+    "lastupdated": "2026-11-11"
+  },
+  {
+    "url": "https://api.worldbank.org/v2/country/NGA/indicator/AG.PRD.CREL.MT?format=json&per_page=100",
+    "sha256": "04a54b28bf05ef915c7f7f8e75068849048275ab597d19b07242a97495d85e78",
+    "lastupdated": "2026-11-11"
+  },
+  {
+    "url": "https://api.worldbank.org/v2/country/NGA/indicator/AG.LND.CREL.HA?format=json&per_page=100",
+    "sha256": "16fe51b8fe537e5dcbf1a2d1cfb324dfb944e15242919aa06212d0a7592a2113",
+    "lastupdated": "2026-11-11"
+  }
+]

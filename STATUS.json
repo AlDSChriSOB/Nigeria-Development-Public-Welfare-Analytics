@@ -1,0 +1,169 @@
+[
+  {
+    "project": "01_gdp_and_economic_diversification",
+    "status": "EXECUTED",
+    "scope": "NATIONAL_PREVIEW_ONLY",
+    "utc": "2026-11-21T17:58:25.411621+00:00",
+    "rows": 104,
+    "metrics": [
+      "Agriculture value added (% GDP)",
+      "GDP growth (annual %)",
+      "Industry value added (% GDP)",
+      "Services value added (% GDP)"
+    ],
+    "primary_case_complete": false,
+    "native_bi_validated": false
+  },
+  {
+    "project": "02_growth_and_household_welfare",
+    "status": "AWAITING_PRIMARY_DATA",
+    "scope": "NOT_EXECUTED",
+    "reason": "Obtain and transform the primary source into data/input.csv and document data/provenance.json. No fabricated data was used."
+  },
+  {
+    "project": "03_food_prices_and_purchasing_power",
+    "status": "AWAITING_PRIMARY_DATA",
+    "scope": "NOT_EXECUTED",
+    "reason": "Obtain and transform the primary source into data/input.csv and document data/provenance.json. No fabricated data was used."
+  },
+  {
+    "project": "04_petrol_and_transport_costs",
+    "status": "AWAITING_PRIMARY_DATA",
+    "scope": "NOT_EXECUTED",
+    "reason": "Obtain and transform the primary source into data/input.csv and document data/provenance.json. No fabricated data was used."
+  },
+  {
+    "project": "05_security_and_civilian_exposure",
+    "status": "AWAITING_PRIMARY_DATA",
+    "scope": "NOT_EXECUTED",
+    "reason": "Obtain and transform the primary source into data/input.csv and document data/provenance.json. No fabricated data was used."
+  },
+  {
+    "project": "06_insecurity_and_agricultural_activity",
+    "status": "AWAITING_PRIMARY_DATA",
+    "scope": "NOT_EXECUTED",
+    "reason": "Obtain and transform the primary source into data/input.csv and document data/provenance.json. No fabricated data was used."
+  },
+  {
+    "project": "07_security_and_business_constraints",
+    "status": "AWAITING_PRIMARY_DATA",
+    "scope": "NOT_EXECUTED",
+    "reason": "Obtain and transform the primary source into data/input.csv and document data/provenance.json. No fabricated data was used."
+  },
+  {
+    "project": "08_crop_production_and_yield",
+    "status": "EXECUTED",
+    "scope": "NATIONAL_PREVIEW_ONLY",
+    "utc": "2026-11-21T17:58:25.552769+00:00",
+    "rows": 78,
+    "metrics": [
+      "Cereal production (metric tons)",
+      "Cereal yield (kg per hectare)",
+      "Land under cereal production (hectares)"
+    ],
+    "primary_case_complete": false,
+    "native_bi_validated": false
+  },
+  {
+    "project": "09_inputs_irrigation_and_productivity",
+    "status": "AWAITING_PRIMARY_DATA",
+    "scope": "NOT_EXECUTED",
+    "reason": "Obtain and transform the primary source into data/input.csv and document data/provenance.json. No fabricated data was used."
+  },
+  {
+    "project": "10_storage_and_market_access",
+    "status": "AWAITING_PRIMARY_DATA",
+    "scope": "NOT_EXECUTED",
+    "reason": "Obtain and transform the primary source into data/input.csv and document data/provenance.json. No fabricated data was used."
+  },
+  {
+    "project": "11_rural_infrastructure_and_welfare",
+    "status": "AWAITING_PRIMARY_DATA",
+    "scope": "NOT_EXECUTED",
+    "reason": "Obtain and transform the primary source into data/input.csv and document data/provenance.json. No fabricated data was used."
+  },
+  {
+    "project": "12_electricity_and_economic_opportunity",
+    "status": "EXECUTED",
+    "scope": "NATIONAL_PREVIEW_ONLY",
+    "utc": "2026-11-21T17:58:25.712080+00:00",
+    "rows": 78,
+    "metrics": [
+      "Electricity access (% population)",
+      "Rural electricity access (% rural population)",
+      "Urban electricity access (% urban population)"
+    ],
+    "primary_case_complete": false,
+    "native_bi_validated": false
+  },
+  {
+    "project": "13_water_sanitation_and_inequality",
+    "status": "EXECUTED",
+    "scope": "NATIONAL_PREVIEW_ONLY",
+    "utc": "2026-11-21T17:58:25.836520+00:00",
+    "rows": 52,
+    "metrics": [
+      "At least basic drinking water (% population)",
+      "At least basic sanitation (% population)"
+    ],
+    "primary_case_complete": false,
+    "native_bi_validated": false
+  },
+  {
+    "project": "14_government_policy_and_approval",
+    "status": "AWAITING_PRIMARY_DATA",
+    "scope": "NOT_EXECUTED",
+    "reason": "Obtain and transform the primary source into data/input.csv and document data/provenance.json. No fabricated data was used."
+  },
+  {
+    "project": "15_public_mood_and_confidence",
+    "status": "AWAITING_PRIMARY_DATA",
+    "scope": "NOT_EXECUTED",
+    "reason": "Obtain and transform the primary source into data/input.csv and document data/provenance.json. No fabricated data was used."
+  },
+  {
+    "project": "16_road_crashes_across_states",
+    "status": "AWAITING_PRIMARY_DATA",
+    "scope": "NOT_EXECUTED",
+    "reason": "Obtain and transform the primary source into data/input.csv and document data/provenance.json. No fabricated data was used."
+  },
+  {
+    "project": "17_road_crash_seasonality",
+    "status": "AWAITING_PRIMARY_DATA",
+    "scope": "NOT_EXECUTED",
+    "reason": "Obtain and transform the primary source into data/input.csv and document data/provenance.json. No fabricated data was used."
+  },
+  {
+    "project": "18_crash_severity_and_contributing_factors",
+    "status": "AWAITING_PRIMARY_DATA",
+    "scope": "NOT_EXECUTED",
+    "reason": "Obtain and transform the primary source into data/input.csv and document data/provenance.json. No fabricated data was used."
+  },
+  {
+    "project": "19_healthcare_and_financial_barriers",
+    "status": "EXECUTED",
+    "scope": "NATIONAL_PREVIEW_ONLY",
+    "utc": "2026-11-21T17:58:25.975626+00:00",
+    "rows": 52,
+    "metrics": [
+      "Current health expenditure (% GDP)",
+      "Out-of-pocket spending (% current health expenditure)"
+    ],
+    "primary_case_complete": false,
+    "native_bi_validated": false
+  },
+  {
+    "project": "20_maternal_and_child_healthcare",
+    "status": "EXECUTED",
+    "scope": "NATIONAL_PREVIEW_ONLY",
+    "utc": "2026-11-21T17:58:26.124713+00:00",
+    "rows": 78,
+    "metrics": [
+      "Births attended by skilled health staff (% total)",
+      "DPT immunisation (% children ages 12-23 months)",
+      "Measles immunisation (% children ages 12-23 months)"
+    ],
+    "primary_case_complete": false,
+    "native_bi_validated": false
+  }
+]

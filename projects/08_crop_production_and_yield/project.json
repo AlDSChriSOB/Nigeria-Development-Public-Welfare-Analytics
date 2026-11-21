@@ -1,0 +1,16 @@
+{
+  "id": 8,
+  "title": "Crop Production and Yield",
+  "slug": "08_crop_production_and_yield",
+  "question": "Does production growth reflect higher yields or cultivated-area expansion?",
+  "source": "FAOSTAT; WDI cereal-yield preview",
+  "source_url": "https://www.fao.org/faostat/en/",
+  "kpi": "Tonnes; hectares; kilograms per hectare",
+  "caveat": "WDI preview covers cereals only, not all Nigerian crops. FAOSTAT crop-level decomposition remains pending.",
+  "indicators": {
+    "AG.YLD.CREL.KG": "Cereal yield (kg per hectare)",
+    "AG.PRD.CREL.MT": "Cereal production (metric tons)",
+    "AG.LND.CREL.HA": "Land under cereal production (hectares)"
+  },
+  "status": "NATIONAL_PREVIEW_READY"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 1,
+  "title": "GDP and Economic Diversification",
+  "slug": "01_gdp_and_economic_diversification",
+  "question": "Which sectors account for output and how has real GDP changed?",
+  "source": "NBS GDP tables; World Bank WDI national preview",
+  "source_url": "https://microdata.nigerianstat.gov.ng/index.php/catalog/147",
+  "kpi": "Sector shares and real GDP growth",
+  "caveat": "Do not splice GDP vintages or confuse nominal value added shares with real growth.",
+  "indicators": {
+    "NY.GDP.MKTP.KD.ZG": "GDP growth (annual %)",
+    "NV.AGR.TOTL.ZS": "Agriculture value added (% GDP)",
+    "NV.IND.TOTL.ZS": "Industry value added (% GDP)",
+    "NV.SRV.TOTL.ZS": "Services value added (% GDP)"
+  },
+  "status": "NATIONAL_PREVIEW_READY"
+}

@@ -1,0 +1,24 @@
+name: Verify national previews
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python run_all.py
+      - run: python scripts/verify.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: national-preview-outputs
+          path: |
+            STATUS.json
+            projects/*/outputs/

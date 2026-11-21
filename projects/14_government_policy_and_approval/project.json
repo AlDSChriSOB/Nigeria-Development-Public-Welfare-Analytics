@@ -1,0 +1,12 @@
+{
+  "id": 14,
+  "title": "Government Policy and Approval",
+  "slug": "14_government_policy_and_approval",
+  "question": "How do Nigerians assess policies and government performance?",
+  "source": "Afrobarometer Nigeria Round 10",
+  "source_url": "https://www.afrobarometer.org/survey-resource/nigeria-round-10-data-2024/",
+  "kpi": "Weighted approval by policy and demographic group",
+  "caveat": "Verify question wording, coding, eligible denominator and sample design; approval is not policy impact.",
+  "indicators": {},
+  "status": "AWAITING_PRIMARY_DATA"
+}

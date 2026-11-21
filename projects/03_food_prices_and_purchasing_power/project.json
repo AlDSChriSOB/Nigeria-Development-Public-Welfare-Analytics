@@ -1,0 +1,12 @@
+{
+  "id": 3,
+  "title": "Food Prices and Purchasing Power",
+  "slug": "03_food_prices_and_purchasing_power",
+  "question": "Which state food baskets have the highest cost increases?",
+  "source": "NBS Selected Food Prices Watch",
+  "source_url": "https://www.nigerianstat.gov.ng/elibrary",
+  "kpi": "Fixed-basket cost and year-on-year food-price change",
+  "caveat": "Keep product specifications, physical quantities and units constant.",
+  "indicators": {},
+  "status": "AWAITING_PRIMARY_DATA"
+}
