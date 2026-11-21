@@ -91,20 +91,20 @@
   },
   {
     "project": "16_road_crashes_across_states",
-    "rows": 0,
-    "inspection": "{\"kind\":\"table\",\"sheet\":\"Overview\",\"address\":\"A4:B8\",\"rows\":5,\"cols\":2,\"values\":[[\"Scope\",\"Awaiting primary data\"],[\"Metric\",\"No observations supplied\"],[\"Unit\",\"Not yet defined\"],[\"Observations\",0],[\"Latest observed value\",\"No observations\"]]}",
+    "rows": 2442,
+    "inspection": "{\"kind\":\"table\",\"sheet\":\"Overview\",\"address\":\"A4:B8\",\"rows\":5,\"cols\":2,\"values\":[[\"Scope\",\"Primary NBS counts\"],[\"Metric\",\"Injured persons\"],[\"Unit\",\"persons\"],[\"Observations\",2442],[\"Latest observed value\",95]]}",
     "errors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
   },
   {
     "project": "17_road_crash_seasonality",
-    "rows": 0,
-    "inspection": "{\"kind\":\"table\",\"sheet\":\"Overview\",\"address\":\"A4:B8\",\"rows\":5,\"cols\":2,\"values\":[[\"Scope\",\"Awaiting primary data\"],[\"Metric\",\"No observations supplied\"],[\"Unit\",\"Not yet defined\"],[\"Observations\",0],[\"Latest observed value\",\"No observations\"]]}",
+    "rows": 22,
+    "inspection": "{\"kind\":\"table\",\"sheet\":\"Overview\",\"address\":\"A4:B8\",\"rows\":5,\"cols\":2,\"values\":[[\"Scope\",\"Primary NBS counts\"],[\"Metric\",\"Total crashes\"],[\"Unit\",\"crashes\"],[\"Observations\",22],[\"Latest observed value\",2720]]}",
     "errors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
   },
   {
     "project": "18_crash_severity_and_contributing_factors",
-    "rows": 0,
-    "inspection": "{\"kind\":\"table\",\"sheet\":\"Overview\",\"address\":\"A4:B8\",\"rows\":5,\"cols\":2,\"values\":[[\"Scope\",\"Awaiting primary data\"],[\"Metric\",\"No observations supplied\"],[\"Unit\",\"Not yet defined\"],[\"Observations\",0],[\"Latest observed value\",\"No observations\"]]}",
+    "rows": 666,
+    "inspection": "{\"kind\":\"table\",\"sheet\":\"Overview\",\"address\":\"A4:B8\",\"rows\":5,\"cols\":2,\"values\":[[\"Scope\",\"Primary NBS counts\"],[\"Metric\",\"Reported factor: BFL\"],[\"Unit\",\"mentions\"],[\"Observations\",666],[\"Latest observed value\",0]]}",
     "errors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
   },
   {

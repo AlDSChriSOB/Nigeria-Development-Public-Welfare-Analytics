@@ -1,5 +1,15 @@
 {
-  "status": "AWAITING_PRIMARY_DATA",
-  "scope": "NOT_EXECUTED",
-  "reason": "Obtain and transform the primary source into data/input.csv and document data/provenance.json. No fabricated data was used."
+  "status": "EXECUTED",
+  "scope": "PRIMARY_NBS_TABLES",
+  "utc": "2026-11-21T18:10:36.011433+00:00",
+  "rows": 2442,
+  "metrics": [
+    "Injured persons",
+    "Killed persons",
+    "Total crashes"
+  ],
+  "primary_case_complete": true,
+  "native_bi_validated": false,
+  "primary_analysis_executed": true,
+  "remaining_limit": "No mileage or journey exposure denominator is available. Reporting and traffic volumes differ across states."
 }

@@ -1,5 +1,30 @@
 {
-  "status": "AWAITING_PRIMARY_DATA",
-  "scope": "NOT_EXECUTED",
-  "reason": "Obtain and transform the primary source into data/input.csv and document data/provenance.json. No fabricated data was used."
+  "status": "EXECUTED",
+  "scope": "PRIMARY_NBS_TABLES",
+  "utc": "2026-11-21T18:10:37.282484+00:00",
+  "rows": 666,
+  "metrics": [
+    "Reported factor: BFL",
+    "Reported factor: BRD",
+    "Reported factor: DAD",
+    "Reported factor: DGD",
+    "Reported factor: DOT",
+    "Reported factor: FTQ",
+    "Reported factor: MDV",
+    "Reported factor: OBS",
+    "Reported factor: OTHERS",
+    "Reported factor: OVL",
+    "Reported factor: PWR",
+    "Reported factor: RTV",
+    "Reported factor: SLV",
+    "Reported factor: SOS",
+    "Reported factor: SPV",
+    "Reported factor: TBT",
+    "Reported factor: UPD",
+    "Reported factor: WOT"
+  ],
+  "primary_case_complete": false,
+  "native_bi_validated": false,
+  "primary_analysis_executed": true,
+  "remaining_limit": "Factor mentions and severity are separate aggregate tables. They cannot establish factor-specific fatality risk, causal effects or individual crash mechanisms. The intended factor-by-severity analysis remains blocked by missing linked incident records."
 }

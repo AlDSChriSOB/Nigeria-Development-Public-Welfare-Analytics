@@ -1,5 +1,13 @@
 {
-  "status": "AWAITING_PRIMARY_DATA",
-  "scope": "NOT_EXECUTED",
-  "reason": "Obtain and transform the primary source into data/input.csv and document data/provenance.json. No fabricated data was used."
+  "status": "EXECUTED",
+  "scope": "PRIMARY_NBS_TABLES",
+  "utc": "2026-11-21T18:10:36.649675+00:00",
+  "rows": 22,
+  "metrics": [
+    "Total crashes"
+  ],
+  "primary_case_complete": true,
+  "native_bi_validated": false,
+  "primary_analysis_executed": true,
+  "remaining_limit": "Only quarterly timing is observed. The balanced seasonality comparison uses 2021\u20132025, five complete years. No hour-of-day risk or prospective safety advice is inferred."
 }

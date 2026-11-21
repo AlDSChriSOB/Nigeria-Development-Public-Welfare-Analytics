@@ -1,0 +1,1 @@
+WITH totals AS (SELECT period,year,quarter,SUM("Total crashes") AS crashes,SUM("Killed persons") AS deaths FROM state_quarter GROUP BY period,year,quarter) SELECT a.*,b.crashes AS same_quarter_previous_year,100.0*(a.crashes-b.crashes)/NULLIF(b.crashes,0) AS yoy_change_pct FROM totals a LEFT JOIN totals b ON a.year=b.year+1 AND a.quarter=b.quarter ORDER BY a.period;

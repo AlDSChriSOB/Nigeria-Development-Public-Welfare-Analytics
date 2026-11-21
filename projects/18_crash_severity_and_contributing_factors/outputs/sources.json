@@ -1,0 +1,11 @@
+{
+  "source_url": "https://microdata.nigerianstat.gov.ng/index.php/catalog/164/download/1405",
+  "sha256_zip": "effd6b7b23b6876be783b2368e7b182b99e481a7b164fb146bdbf4b2f784649a",
+  "sha256_workbook": "c8a4b13fef21a44b48fc076a46c060bd8fbf25c75c04d934dcf08fc0a673206c",
+  "sheet": "Sheet1",
+  "vintage": "NBS Q1 2026 release",
+  "state_rows_1based": "4\u201340",
+  "state_header_row_1based": 3,
+  "factor_rows_1based": "101\u2013137",
+  "factor_header_row_1based": 100
+}

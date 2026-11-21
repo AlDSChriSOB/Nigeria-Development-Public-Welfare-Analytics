@@ -8,5 +8,6 @@
   "kpi": "Quarterly crashes and same-quarter annual change",
   "caveat": "Quarterly totals do not reveal dangerous hours or weekdays. Event timestamps are required for finer timing.",
   "indicators": {},
-  "status": "AWAITING_PRIMARY_DATA"
+  "status": "PRIMARY_NBS_TABLES",
+  "adapter": "nbs_roads"
 }

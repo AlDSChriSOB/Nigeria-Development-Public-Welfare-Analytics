@@ -1,11 +1,3 @@
-# Data acquisition and observation grain
+# Primary NBS/FRSC data
 
-FRSC/NBS factor and severity tables
-
-https://microdata.nigerianstat.gov.ng/index.php/catalog/164
-
-Keep original downloads locally in data/raw/. Obtain any provider approval yourself; never commit credentials or restricted respondent data.
-
-The pipeline accepts a CSV containing already validated aggregate indicators, not arbitrary raw survey records. One row is one period × geography × metric × unit × statistical vintage. Required columns: period (ISO date), geography, metric, value (numeric), unit, source_url and vintage. Duplicates cause an error. Unknown values remain missing rather than zero.
-
-Before creating input.csv from microdata, document exact variable codes, eligibility, missing response codes, survey weights, PSU and strata, and unit conversions. This mapping has NOT yet been implemented for this project. Aggregate factor counts may overlap and may not be joined to severity. No factor-specific risk without compatible records.
+Automatically downloaded and transformed by src/roads.py from https://microdata.nigerianstat.gov.ng/index.php/catalog/164/download/1405. No login needed. Source ZIP and XLSX SHA256 hashes, exact sheet and row mappings are recorded in outputs/sources.json. All state and factor columns reconcile to published national totals. See outputs/published_total_audit.csv. The Excel source contains 22 quarters of state counts and Q1 2026 contributing-factor tables.

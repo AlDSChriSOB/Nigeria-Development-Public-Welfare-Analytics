@@ -8,5 +8,6 @@
   "kpi": "Fatal crashes / crashes by factor when available",
   "caveat": "Aggregate factor counts may overlap and may not be joined to severity. No factor-specific risk without compatible records.",
   "indicators": {},
-  "status": "AWAITING_PRIMARY_DATA"
+  "status": "PRIMARY_NBS_TABLES",
+  "adapter": "nbs_roads"
 }

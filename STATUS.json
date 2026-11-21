@@ -3,7 +3,7 @@
     "project": "01_gdp_and_economic_diversification",
     "status": "EXECUTED",
     "scope": "NATIONAL_PREVIEW_ONLY",
-    "utc": "2026-11-21T17:58:25.411621+00:00",
+    "utc": "2026-11-21T18:08:43.227167+00:00",
     "rows": 104,
     "metrics": [
       "Agriculture value added (% GDP)",
@@ -54,7 +54,7 @@
     "project": "08_crop_production_and_yield",
     "status": "EXECUTED",
     "scope": "NATIONAL_PREVIEW_ONLY",
-    "utc": "2026-11-21T17:58:25.552769+00:00",
+    "utc": "2026-11-21T18:08:43.376159+00:00",
     "rows": 78,
     "metrics": [
       "Cereal production (metric tons)",
@@ -86,7 +86,7 @@
     "project": "12_electricity_and_economic_opportunity",
     "status": "EXECUTED",
     "scope": "NATIONAL_PREVIEW_ONLY",
-    "utc": "2026-11-21T17:58:25.712080+00:00",
+    "utc": "2026-11-21T18:08:43.526539+00:00",
     "rows": 78,
     "metrics": [
       "Electricity access (% population)",
@@ -100,7 +100,7 @@
     "project": "13_water_sanitation_and_inequality",
     "status": "EXECUTED",
     "scope": "NATIONAL_PREVIEW_ONLY",
-    "utc": "2026-11-21T17:58:25.836520+00:00",
+    "utc": "2026-11-21T18:08:43.680611+00:00",
     "rows": 52,
     "metrics": [
       "At least basic drinking water (% population)",
@@ -123,27 +123,70 @@
   },
   {
     "project": "16_road_crashes_across_states",
-    "status": "AWAITING_PRIMARY_DATA",
-    "scope": "NOT_EXECUTED",
-    "reason": "Obtain and transform the primary source into data/input.csv and document data/provenance.json. No fabricated data was used."
+    "status": "EXECUTED",
+    "scope": "PRIMARY_NBS_TABLES",
+    "utc": "2026-11-21T18:08:44.283276+00:00",
+    "rows": 2442,
+    "metrics": [
+      "Injured persons",
+      "Killed persons",
+      "Total crashes"
+    ],
+    "primary_case_complete": true,
+    "native_bi_validated": false,
+    "primary_analysis_executed": true,
+    "remaining_limit": "No mileage or journey exposure denominator is available. Reporting and traffic volumes differ across states."
   },
   {
     "project": "17_road_crash_seasonality",
-    "status": "AWAITING_PRIMARY_DATA",
-    "scope": "NOT_EXECUTED",
-    "reason": "Obtain and transform the primary source into data/input.csv and document data/provenance.json. No fabricated data was used."
+    "status": "EXECUTED",
+    "scope": "PRIMARY_NBS_TABLES",
+    "utc": "2026-11-21T18:08:44.834447+00:00",
+    "rows": 22,
+    "metrics": [
+      "Total crashes"
+    ],
+    "primary_case_complete": true,
+    "native_bi_validated": false,
+    "primary_analysis_executed": true,
+    "remaining_limit": "Only quarterly timing is observed. The balanced seasonality comparison uses 2021\u20132025, five complete years. No hour-of-day risk or prospective safety advice is inferred."
   },
   {
     "project": "18_crash_severity_and_contributing_factors",
-    "status": "AWAITING_PRIMARY_DATA",
-    "scope": "NOT_EXECUTED",
-    "reason": "Obtain and transform the primary source into data/input.csv and document data/provenance.json. No fabricated data was used."
+    "status": "EXECUTED",
+    "scope": "PRIMARY_NBS_TABLES",
+    "utc": "2026-11-21T18:08:45.405893+00:00",
+    "rows": 666,
+    "metrics": [
+      "Reported factor: BFL",
+      "Reported factor: BRD",
+      "Reported factor: DAD",
+      "Reported factor: DGD",
+      "Reported factor: DOT",
+      "Reported factor: FTQ",
+      "Reported factor: MDV",
+      "Reported factor: OBS",
+      "Reported factor: OTHERS",
+      "Reported factor: OVL",
+      "Reported factor: PWR",
+      "Reported factor: RTV",
+      "Reported factor: SLV",
+      "Reported factor: SOS",
+      "Reported factor: SPV",
+      "Reported factor: TBT",
+      "Reported factor: UPD",
+      "Reported factor: WOT"
+    ],
+    "primary_case_complete": false,
+    "native_bi_validated": false,
+    "primary_analysis_executed": true,
+    "remaining_limit": "Factor mentions and severity are separate aggregate tables. They cannot establish factor-specific fatality risk, causal effects or individual crash mechanisms. The intended factor-by-severity analysis remains blocked by missing linked incident records."
   },
   {
     "project": "19_healthcare_and_financial_barriers",
     "status": "EXECUTED",
     "scope": "NATIONAL_PREVIEW_ONLY",
-    "utc": "2026-11-21T17:58:25.975626+00:00",
+    "utc": "2026-11-21T18:08:45.711290+00:00",
     "rows": 52,
     "metrics": [
       "Current health expenditure (% GDP)",
@@ -156,7 +199,7 @@
     "project": "20_maternal_and_child_healthcare",
     "status": "EXECUTED",
     "scope": "NATIONAL_PREVIEW_ONLY",
-    "utc": "2026-11-21T17:58:26.124713+00:00",
+    "utc": "2026-11-21T18:08:45.847978+00:00",
     "rows": 78,
     "metrics": [
       "Births attended by skilled health staff (% total)",

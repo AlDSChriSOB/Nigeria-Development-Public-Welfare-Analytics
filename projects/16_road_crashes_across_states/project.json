@@ -8,5 +8,6 @@
   "kpi": "Crashes; deaths; injuries; deaths per 100 crashes",
   "caveat": "Population rates are not travel-exposure rates. Counts depend on reporting and road usage.",
   "indicators": {},
-  "status": "AWAITING_PRIMARY_DATA"
+  "status": "PRIMARY_NBS_TABLES",
+  "adapter": "nbs_roads"
 }

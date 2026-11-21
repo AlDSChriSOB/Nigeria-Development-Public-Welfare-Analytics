@@ -41,6 +41,9 @@ def wdi(c,project):
 
 def run(project):
     project=Path(project);c=json.loads((project/'project.json').read_text());out=project/'outputs';out.mkdir(exist_ok=True)
+    if c.get('adapter')=='nbs_roads':
+        from .roads import prepare
+        prepare(project)
     if (project/'data/input.csv').exists():
         prov=project/'data/provenance.json'
         if not prov.exists():raise ValueError('Supply data/provenance.json documenting original sources and transformation before analysis')
@@ -62,7 +65,7 @@ def run(project):
     expected=d.dropna(subset=['value']).sort_values(['geography','metric','unit','vintage','period']).copy()
     expected['absolute_change']=expected.groupby(['geography','metric','unit','vintage']).value.diff()
     expected=expected.sort_values(['metric','geography','period'])
-    if not np.allclose(expected.absolute_change,a.absolute_change,equal_nan=True):raise AssertionError('SQL/pandas change mismatch')
+    if not np.allclose(pd.to_numeric(expected.absolute_change).to_numpy(dtype=float),pd.to_numeric(a.absolute_change).to_numpy(dtype=float),equal_nan=True):raise AssertionError('SQL/pandas change mismatch')
     a.to_csv(out/'analysis.csv',index=False)
     quality={'rows':len(d),'observed_rows':int(d.value.notna().sum()),'missing_value_rows':int(d.value.isna().sum()),'duplicate_keys':0}
     (out/'quality.json').write_text(json.dumps(quality,indent=2))
@@ -73,6 +76,9 @@ def run(project):
     status={'status':'EXECUTED','scope':scope,'utc':datetime.datetime.now(datetime.timezone.utc).isoformat(),'rows':len(d),'metrics':list(a.metric.unique()),'primary_case_complete':False,'native_bi_validated':False}
     (out/'status.json').write_text(json.dumps(status,indent=2))
     (project/'reports/RESULTS.md').write_text('# '+c['title']+'\n\nScope: '+scope+'\n\n'+c['caveat']+'\n\nSQL change calculations were independently reconciled against pandas. See outputs/latest.csv for last observed values by metric; different indicators can end in different years. No cross-indicator total is meaningful. Missing values were not set to zero.\n\n![First indicator](../outputs/trend.png)\n\nPrimary case study and native BI dashboards remain incomplete.\n')
+    if c.get('adapter')=='nbs_roads':
+        from .roads import analyse
+        return analyse(project)
     return status
 
 if __name__=='__main__':print(run(sys.argv[1]))

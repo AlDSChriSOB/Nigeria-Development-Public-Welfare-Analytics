@@ -2,7 +2,7 @@
 
 20 Nigerian case studies integrating Excel, SQLite SQL, Python/Jupyter, Power BI and Tableau.
 
-**This release implements the project structure and aggregate-indicator workflow. It does not claim 20 completed end-to-end studies.** Six projects have executed real national-data previews; fourteen await primary data and source-specific transformations. No native Power BI or Tableau dashboards have yet been authored or validated. No synthetic analysis data was used.
+**This release implements the project structure and aggregate-indicator workflow. It does not claim 20 completed end-to-end studies.** Six projects have executed national-data previews. Projects 16–17 now have verified primary NBS analyses; project 18 has primary factor distributions but lacks linked factor-by-severity records. Eleven projects still await primary data and source-specific transformations. No native Power BI or Tableau dashboards have yet been authored or validated. No synthetic analysis data was used.
 
 ## Quick start
 ```bash
@@ -21,7 +21,7 @@ Internet access is needed for first-time WDI downloads. A project awaiting prima
 | Python | WDI downloader, validation, SQLite execution, provenance, charts, CSV exports | Original-source mappings for surveys, NBS and security data |
 | SQL | Unique-key checks and previous-observation changes within geography, metric, unit and vintage | Case-specific models and derived indicators after source inspection |
 | Jupyter | Executable workflow and source/interpretation notes for every project | Primary-case interpretation and survey uncertainty |
-| Excel | Twenty actual XLSX workbooks; six populated previews and fourteen explicit no-data workbooks; Power Query scripts | Native Excel refresh validation and primary-data population |
+| Excel | Twenty actual XLSX workbooks; six populated previews and eleven explicit no-data workbooks; Power Query scripts | Native Excel refresh validation and primary-data population |
 | Power BI | Twenty Power Query imports, DAX measures, themes and dashboard build specifications | Native reports, desktop validation and service publication |
 | Tableau | Twenty data connection, calculation and dashboard build specifications | Native workbooks, desktop validation and service publication |
 
@@ -46,9 +46,9 @@ Each projects/NN_case directory contains data/, excel/, sql/, python/, notebooks
 | 13 | [Water Sanitation and Inequality](projects/13_water_sanitation_and_inequality/README.md) | Executed national preview |
 | 14 | [Government Policy and Approval](projects/14_government_policy_and_approval/README.md) | Awaiting primary data |
 | 15 | [Public Mood and Confidence](projects/15_public_mood_and_confidence/README.md) | Awaiting primary data |
-| 16 | [Road Crashes across States](projects/16_road_crashes_across_states/README.md) | Awaiting primary data |
-| 17 | [Road Crash Seasonality](projects/17_road_crash_seasonality/README.md) | Awaiting primary data |
-| 18 | [Crash Severity and Contributing Factors](projects/18_crash_severity_and_contributing_factors/README.md) | Awaiting primary data |
+| 16 | [Road Crashes across States](projects/16_road_crashes_across_states/README.md) | Primary NBS analysis |
+| 17 | [Road Crash Seasonality](projects/17_road_crash_seasonality/README.md) | Primary NBS analysis |
+| 18 | [Crash Severity and Contributing Factors](projects/18_crash_severity_and_contributing_factors/README.md) | Primary NBS analysis (partial question) |
 | 19 | [Healthcare and Financial Barriers](projects/19_healthcare_and_financial_barriers/README.md) | Executed national preview |
 | 20 | [Maternal and Child Healthcare](projects/20_maternal_and_child_healthcare/README.md) | Executed national preview |
 

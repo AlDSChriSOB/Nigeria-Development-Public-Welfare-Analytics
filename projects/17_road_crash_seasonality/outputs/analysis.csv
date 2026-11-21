@@ -1,0 +1,23 @@
+period,geography,metric,value,unit,source_url,vintage,previous_value,previous_period,absolute_change,relative_change_pct
+2020-10-01,Nigeria,Total crashes,3313.0,crashes,https://microdata.nigerianstat.gov.ng/index.php/catalog/164/download/1405,NBS Q1 2026 release,,,,
+2021-01-01,Nigeria,Total crashes,3301.0,crashes,https://microdata.nigerianstat.gov.ng/index.php/catalog/164/download/1405,NBS Q1 2026 release,3313.0,2020-10-01,-12.0,-0.3622094778146695
+2021-04-01,Nigeria,Total crashes,3185.0,crashes,https://microdata.nigerianstat.gov.ng/index.php/catalog/164/download/1405,NBS Q1 2026 release,3301.0,2021-01-01,-116.0,-3.514086640411996
+2021-07-01,Nigeria,Total crashes,3134.0,crashes,https://microdata.nigerianstat.gov.ng/index.php/catalog/164/download/1405,NBS Q1 2026 release,3185.0,2021-04-01,-51.0,-1.6012558869701727
+2021-10-01,Nigeria,Total crashes,3407.0,crashes,https://microdata.nigerianstat.gov.ng/index.php/catalog/164/download/1405,NBS Q1 2026 release,3134.0,2021-07-01,273.0,8.710912571793235
+2022-01-01,Nigeria,Total crashes,3345.0,crashes,https://microdata.nigerianstat.gov.ng/index.php/catalog/164/download/1405,NBS Q1 2026 release,3407.0,2021-10-01,-62.0,-1.8197828001174055
+2022-04-01,Nigeria,Total crashes,3282.0,crashes,https://microdata.nigerianstat.gov.ng/index.php/catalog/164/download/1405,NBS Q1 2026 release,3345.0,2022-01-01,-63.0,-1.883408071748879
+2022-07-01,Nigeria,Total crashes,3412.0,crashes,https://microdata.nigerianstat.gov.ng/index.php/catalog/164/download/1405,NBS Q1 2026 release,3282.0,2022-04-01,130.0,3.9609993906154783
+2022-10-01,Nigeria,Total crashes,3617.0,crashes,https://microdata.nigerianstat.gov.ng/index.php/catalog/164/download/1405,NBS Q1 2026 release,3412.0,2022-07-01,205.0,6.00820633059789
+2023-01-01,Nigeria,Total crashes,2733.0,crashes,https://microdata.nigerianstat.gov.ng/index.php/catalog/164/download/1405,NBS Q1 2026 release,3617.0,2022-10-01,-884.0,-24.44014376555156
+2023-04-01,Nigeria,Total crashes,2967.0,crashes,https://microdata.nigerianstat.gov.ng/index.php/catalog/164/download/1405,NBS Q1 2026 release,2733.0,2023-01-01,234.0,8.562019758507136
+2023-07-01,Nigeria,Total crashes,2187.0,crashes,https://microdata.nigerianstat.gov.ng/index.php/catalog/164/download/1405,NBS Q1 2026 release,2967.0,2023-04-01,-780.0,-26.289180990899897
+2023-10-01,Nigeria,Total crashes,2717.0,crashes,https://microdata.nigerianstat.gov.ng/index.php/catalog/164/download/1405,NBS Q1 2026 release,2187.0,2023-07-01,530.0,24.23411065386374
+2024-01-01,Nigeria,Total crashes,2662.0,crashes,https://microdata.nigerianstat.gov.ng/index.php/catalog/164/download/1405,NBS Q1 2026 release,2717.0,2023-10-01,-55.0,-2.0242914979757085
+2024-04-01,Nigeria,Total crashes,2404.0,crashes,https://microdata.nigerianstat.gov.ng/index.php/catalog/164/download/1405,NBS Q1 2026 release,2662.0,2024-01-01,-258.0,-9.691960931630353
+2024-07-01,Nigeria,Total crashes,1933.0,crashes,https://microdata.nigerianstat.gov.ng/index.php/catalog/164/download/1405,NBS Q1 2026 release,2404.0,2024-04-01,-471.0,-19.59234608985025
+2024-10-01,Nigeria,Total crashes,2559.0,crashes,https://microdata.nigerianstat.gov.ng/index.php/catalog/164/download/1405,NBS Q1 2026 release,1933.0,2024-07-01,626.0,32.38489394723228
+2025-01-01,Nigeria,Total crashes,2650.0,crashes,https://microdata.nigerianstat.gov.ng/index.php/catalog/164/download/1405,NBS Q1 2026 release,2559.0,2024-10-01,91.0,3.5560765924189135
+2025-04-01,Nigeria,Total crashes,2631.0,crashes,https://microdata.nigerianstat.gov.ng/index.php/catalog/164/download/1405,NBS Q1 2026 release,2650.0,2025-01-01,-19.0,-0.7169811320754716
+2025-07-01,Nigeria,Total crashes,2434.0,crashes,https://microdata.nigerianstat.gov.ng/index.php/catalog/164/download/1405,NBS Q1 2026 release,2631.0,2025-04-01,-197.0,-7.487647282402128
+2025-10-01,Nigeria,Total crashes,2731.0,crashes,https://microdata.nigerianstat.gov.ng/index.php/catalog/164/download/1405,NBS Q1 2026 release,2434.0,2025-07-01,297.0,12.202136400986031
+2026-01-01,Nigeria,Total crashes,2720.0,crashes,https://microdata.nigerianstat.gov.ng/index.php/catalog/164/download/1405,NBS Q1 2026 release,2731.0,2025-10-01,-11.0,-0.4027828634199927

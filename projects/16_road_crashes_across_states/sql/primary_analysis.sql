@@ -1,0 +1,1 @@
+SELECT state, "Total crashes" AS crashes, "Killed persons" AS deaths, "Injured persons" AS injuries, 100.0*"Fatal crashes"/NULLIF("Total crashes",0) AS fatal_crash_percentage,100.0*"Killed persons"/NULLIF("Total crashes",0) AS deaths_per_100_crashes FROM state_quarter WHERE period=(SELECT MAX(period) FROM state_quarter) ORDER BY crashes DESC;
