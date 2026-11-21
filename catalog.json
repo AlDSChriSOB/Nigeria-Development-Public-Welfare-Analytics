@@ -205,7 +205,8 @@
     "kpi": "Crashes; deaths; injuries; deaths per 100 crashes",
     "caveat": "Population rates are not travel-exposure rates. Counts depend on reporting and road usage.",
     "indicators": {},
-    "status": "AWAITING_PRIMARY_DATA"
+    "status": "PRIMARY_NBS_TABLES",
+    "adapter": "nbs_roads"
   },
   {
     "id": 17,
@@ -217,7 +218,8 @@
     "kpi": "Quarterly crashes and same-quarter annual change",
     "caveat": "Quarterly totals do not reveal dangerous hours or weekdays. Event timestamps are required for finer timing.",
     "indicators": {},
-    "status": "AWAITING_PRIMARY_DATA"
+    "status": "PRIMARY_NBS_TABLES",
+    "adapter": "nbs_roads"
   },
   {
     "id": 18,
@@ -229,7 +231,8 @@
     "kpi": "Fatal crashes / crashes by factor when available",
     "caveat": "Aggregate factor counts may overlap and may not be joined to severity. No factor-specific risk without compatible records.",
     "indicators": {},
-    "status": "AWAITING_PRIMARY_DATA"
+    "status": "PRIMARY_NBS_TABLES",
+    "adapter": "nbs_roads"
   },
   {
     "id": 19,

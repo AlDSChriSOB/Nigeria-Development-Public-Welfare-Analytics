@@ -21,7 +21,7 @@ Internet access is needed for first-time WDI downloads. A project awaiting prima
 | Python | WDI downloader, validation, SQLite execution, provenance, charts, CSV exports | Original-source mappings for surveys, NBS and security data |
 | SQL | Unique-key checks and previous-observation changes within geography, metric, unit and vintage | Case-specific models and derived indicators after source inspection |
 | Jupyter | Executable workflow and source/interpretation notes for every project | Primary-case interpretation and survey uncertainty |
-| Excel | Twenty actual XLSX workbooks; six populated previews and eleven explicit no-data workbooks; Power Query scripts | Native Excel refresh validation and primary-data population |
+| Excel | Twenty actual XLSX workbooks; six populated national previews, three primary NBS workbooks and eleven explicit no-data workbooks; Power Query scripts | Native Excel refresh validation and primary-data population |
 | Power BI | Twenty Power Query imports, DAX measures, themes and dashboard build specifications | Native reports, desktop validation and service publication |
 | Tableau | Twenty data connection, calculation and dashboard build specifications | Native workbooks, desktop validation and service publication |
 
